@@ -20,6 +20,10 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 
 import feedparser
 import requests
+try:
+    from curl_cffi import requests as crequests  # imitates a real browser's TLS fingerprint
+except Exception:  # optional
+    crequests = None
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OPML = os.path.join(HERE, "feeds.opml")
@@ -113,11 +117,22 @@ def fetch_one(feed, state, now):
             return feed["id"], f"error: {type(ex).__name__}: {str(ex)[:120]}", [], {}
         if r.status_code not in (403, 429, 503):
             break  # success or a non-blocking error; no point retrying with another identity
+    if r.status_code in (403, 429, 503) and crequests is not None:
+        # Bot protection (Cloudflare etc.) rejects Python's TLS fingerprint; retry as Chrome.
+        try:
+            r = crequests.get(feed["url"], impersonate="chrome", timeout=TIMEOUT, allow_redirects=True,
+                              headers={"Accept": UA_PROFILES[0]["Accept"], "Accept-Language": "en-US,en;q=0.9"})
+        except Exception as ex:
+            return feed["id"], f"error: {type(ex).__name__}: {str(ex)[:120]}", [], {}
     if r.status_code == 304:
         return feed["id"], "unchanged", [], {}
     if r.status_code != 200:
         return feed["id"], f"http {r.status_code}", [], {}
     parsed = feedparser.parse(r.content)
+    if parsed.bozo and not parsed.entries:
+        # retry after stripping characters that are illegal in XML (a common publisher bug)
+        cleaned = re.sub(rb"[\x00-\x08\x0b\x0c\x0e-\x1f]", b"", r.content)
+        parsed = feedparser.parse(cleaned)
     if parsed.bozo and not parsed.entries:
         return feed["id"], f"unparseable: {str(parsed.bozo_exception)[:120]}", [], {}
     items = []
