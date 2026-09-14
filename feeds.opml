@@ -28,6 +28,15 @@
       <outline title="Marginal Revolution" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://feeds.feedblitz.com/marginalrevolution&amp;x=1" text="Marginal Revolution" />
       <outline title="Greg Mankiw's Blog" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="http://gregmankiw.blogspot.com/feeds/posts/default" text="Greg Mankiw's Blog" />
       <outline title="Financial Times" category="News" type="rss" xmlUrl="https://www.ft.com/rss/home" text="Financial Times" />
+      <outline title="FT Markets" category="News" type="rss" xmlUrl="https://www.ft.com/markets?format=rss" text="FT Markets" />
+      <outline title="FT World" category="News" type="rss" xmlUrl="https://www.ft.com/world?format=rss" text="FT World" />
+      <outline title="FT Opinion" category="News" type="rss" xmlUrl="https://www.ft.com/opinion?format=rss" text="FT Opinion" />
+      <outline title="FT Companies" category="News" type="rss" xmlUrl="https://www.ft.com/companies?format=rss" text="FT Companies" />
+      <outline title="FT Global Economy" category="News" type="rss" xmlUrl="https://www.ft.com/global-economy?format=rss" text="FT Global Economy" />
+      <outline title="FT US" category="News" type="rss" xmlUrl="https://www.ft.com/us?format=rss" text="FT US" />
+      <outline title="FT Technology" category="News" type="rss" xmlUrl="https://www.ft.com/technology?format=rss" text="FT Technology" />
+      <outline title="FT Magazine" category="News" type="rss" xmlUrl="https://www.ft.com/magazine?format=rss" text="FT Magazine" />
+      <outline title="FT The Big Read" category="News" type="rss" xmlUrl="https://www.ft.com/the-big-read?format=rss" text="FT The Big Read" />
       <outline title="Axios" category="News" type="rss" xmlUrl="https://www.axios.com/feeds/feed.rss" text="Axios" />
       <outline title="FA RSS" category="News" type="rss" xmlUrl="https://www.foreignaffairs.com/rss.xml" text="FA RSS" />
       <outline title="Design MilkDesign Milk" category="Culture" type="rss" xmlUrl="http://feeds.feedburner.com/design-milk" text="Design MilkDesign Milk" />
