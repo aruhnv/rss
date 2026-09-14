@@ -1,207 +1,191 @@
-Run: 2026-09-14 04:57 UTC
-Feeds: 178  OK: 127  Failed: 51
+Run: 2026-09-14 04:58 UTC
+Feeds: 187  OK: 140  Failed: 47
 
-[5 consecutive] Wiley: The Journal of Finance: Table of Contents
+[6 consecutive] Wiley: The Journal of Finance: Table of Contents
   http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1540-6261
   http 403
 
-[5 consecutive] Wiley: Strategic Management Journal: Table of Contents
+[6 consecutive] Wiley: Strategic Management Journal: Table of Contents
   https://onlinelibrary.wiley.com/feed/10970266/most-recent
   http 403
 
-[5 consecutive] Wiley: Journal of Accounting Research: Table of Contents
+[6 consecutive] Wiley: Journal of Accounting Research: Table of Contents
   http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1475-679X
   http 403
 
-[5 consecutive] Wiley: Contemporary Accounting Research: Table of Contents
+[6 consecutive] Wiley: Contemporary Accounting Research: Table of Contents
   http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1911-3846
   http 403
 
-[5 consecutive] What's New Under the Sun
+[6 consecutive] What's New Under the Sun
   https://mattsclancy.substack.com/feed
   http 403
 
-[5 consecutive] Weltinnenpolitik
+[6 consecutive] Weltinnenpolitik
   https://weltinnenpolitik.substack.com/feed
   http 403
 
-[5 consecutive] Unevenly Combined Thoughts
+[6 consecutive] Unevenly Combined Thoughts
   https://unevenandcombinedthoughts.substack.com/feed
   http 403
 
-[5 consecutive] The University of Chicago Press: The Journal of Politics: Table of Contents
+[6 consecutive] The University of Chicago Press: The Journal of Politics: Table of Contents
   http://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jop
   http 403
 
-[5 consecutive] The University of Chicago Press: National Tax Journal: Table of Contents
+[6 consecutive] The University of Chicago Press: National Tax Journal: Table of Contents
   https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=ntj
   http 403
 
-[5 consecutive] The Capitalism and Freedom in the 21st Century Podcast
+[6 consecutive] The Capitalism and Freedom in the 21st Century Podcast
   https://capitalismandfreedom.substack.com/feed
   http 403
 
-[5 consecutive] Securities Law Prof Blog
+[6 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[5 consecutive] Sebastian’s Substack
+[6 consecutive] Sebastian’s Substack
   https://sebastiangaliani.substack.com/feed
   http 403
 
-[5 consecutive] Rohit Lamba
+[6 consecutive] Rohit Lamba
   https://rohitlamba.substack.com/feed
   http 403
 
-[5 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[6 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[5 consecutive] Popular by Design
+[6 consecutive] Popular by Design
   https://alexanderkustov.substack.com/feed
   http 403
 
-[5 consecutive] Plugging the Gap
+[6 consecutive] Plugging the Gap
   https://joshuagans.substack.com/feed
   http 403
 
-[5 consecutive] On the Other Hand...
+[6 consecutive] On the Other Hand...
   https://dwmackenzie.substack.com/feed/
   http 403
 
-[5 consecutive] Macroeconomic Policy Nexus
+[6 consecutive] Macroeconomic Policy Nexus
   https://macroeconomicpolicynexus.substack.com/feed
   http 403
 
-[5 consecutive] Liberty Lens - An Economics Substack
+[6 consecutive] Liberty Lens - An Economics Substack
   https://libertylensecon.substack.com/feed
   http 403
 
-[5 consecutive] Laura Nicolae
+[6 consecutive] Laura Nicolae
   https://lauranicolae.substack.com/feed
   http 403
 
-[5 consecutive] Knowledge Problem
+[6 consecutive] Knowledge Problem
   https://knowledgeproblem.substack.com/feed
   http 403
 
-[5 consecutive] Judgment Calls
+[6 consecutive] Judgment Calls
   https://judgmentcalls.substack.com/feed
   http 403
 
-[5 consecutive] I Blog to Differ
+[6 consecutive] I Blog to Differ
   https://davidrhenderson.substack.com/feed
   http 403
 
-[5 consecutive] Ghosts of Electricity
+[6 consecutive] Ghosts of Electricity
   https://aleximas.substack.com/feed
   http 403
 
-[5 consecutive] Get Down and Shruti
+[6 consecutive] Get Down and Shruti
   https://srajagopalan.substack.com/feed
   http 403
 
-[5 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[6 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[5 consecutive] Finance Research | Robert H. Smith School of Business
+[6 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[5 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[6 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[5 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[6 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[5 consecutive] Event Study
+[6 consecutive] Event Study
   https://yiqingxu.substack.com/feed
   http 403
 
-[5 consecutive] Empirical Truths
+[6 consecutive] Empirical Truths
   https://empiricaltruths.substack.com/feed
   http 403
 
-[5 consecutive] Economy Class
+[6 consecutive] Economy Class
   https://arjunramani.substack.com/feed
   http 403
 
-[5 consecutive] Data, On Average
+[6 consecutive] Data, On Average
   https://nickchk.substack.com/feed
   http 403
 
-[5 consecutive] Columbia Journal of Tax Law
+[6 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   error: ConnectTimeout: HTTPSConnectionPool(host='journals.library.columbia.edu', port=443): Max retries exceeded with url: /index.php/taxlaw/ga
 
-[5 consecutive] Causal Inference: the Remix
+[6 consecutive] Causal Inference: the Remix
   https://causalinf.substack.com/feed
   http 403
 
-[5 consecutive] Carlos Chavez
+[6 consecutive] Carlos Chavez
   https://carloschavezp29.substack.com/feed
   http 403
 
-[5 consecutive] Business Law Prof Blog
+[6 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[5 consecutive] Bioeconomics
+[6 consecutive] Bioeconomics
   https://andresdeloera.substack.com/feed
   http 403
 
-[5 consecutive] Antitrust & Competition Policy Blog
+[6 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[5 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
+[6 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67c8&jc=financial&type=etoc&feed=atom
   http 403
 
-[5 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
+[6 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom
   http 403
 
-[5 consecutive] American Economic Association
+[6 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[5 consecutive] American Economic Association
+[6 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[5 consecutive] Agglomerations
+[6 consecutive] Agglomerations
   https://agglomerations.substack.com/feed
   http 403
 
-[5 consecutive] Accounting Research Workshop Series | Accounting Department
+[6 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[5 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[6 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[5 consecutive] A Dark Room
+[6 consecutive] A Dark Room
   https://adarkroom.substack.com/feed
   http 403
-
-[1 consecutive] The Review of Financial Studies Current Issue
-  http://rfs.oxfordjournals.org/rss/current.xml
-  http 404
-
-[1 consecutive] The Review of Financial Studies Advance Access
-  http://rfs.oxfordjournals.org/rss/ahead.xml
-  http 404
-
-[1 consecutive] The Review of Economic Studies Advance Access
-  http://restud.oxfordjournals.org/rss/ahead.xml
-  http 404
-
-[1 consecutive] Review of Finance Advance Access
-  http://rof.oxfordjournals.org/rss/ahead.xml
-  http 404
 
