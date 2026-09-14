@@ -32,7 +32,15 @@ MIN_PER_FEED = 5        # but always keep at least this many per feed (journals 
 MAX_PER_FEED = 60       # cap chatty feeds
 TIMEOUT = 20
 WORKERS = 24
-UA = "simple-rss-reader/1.0 (+https://github.com/; personal, low-volume)"
+# Two header profiles: a normal browser first, a plain feed-reader identity as fallback.
+UA_PROFILES = [
+    {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+     "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, */*;q=0.8",
+     "Accept-Language": "en-US,en;q=0.9",
+     "Cache-Control": "no-cache"},
+    {"User-Agent": "feedparser/6.0 (+https://github.com/kurtmckee/feedparser)",
+     "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"},
+]
 TRACKING = {"utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "fbclid", "gclid", "mc_cid", "mc_eid"}
 
 
@@ -92,15 +100,19 @@ def strip_html(s, limit=2000):
 
 def fetch_one(feed, state, now):
     """Return (feed_id, status, new_items, headers). status is 'ok', 'unchanged' or an error string."""
-    headers = {"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"}
-    if state.get("etag"):
-        headers["If-None-Match"] = state["etag"]
-    if state.get("modified"):
-        headers["If-Modified-Since"] = state["modified"]
-    try:
-        r = requests.get(feed["url"], headers=headers, timeout=TIMEOUT, allow_redirects=True)
-    except requests.RequestException as ex:
-        return feed["id"], f"error: {type(ex).__name__}: {str(ex)[:120]}", [], {}
+    r = None
+    for profile in UA_PROFILES:
+        headers = dict(profile)
+        if state.get("etag"):
+            headers["If-None-Match"] = state["etag"]
+        if state.get("modified"):
+            headers["If-Modified-Since"] = state["modified"]
+        try:
+            r = requests.get(feed["url"], headers=headers, timeout=TIMEOUT, allow_redirects=True)
+        except requests.RequestException as ex:
+            return feed["id"], f"error: {type(ex).__name__}: {str(ex)[:120]}", [], {}
+        if r.status_code not in (403, 429, 503):
+            break  # success or a non-blocking error; no point retrying with another identity
     if r.status_code == 304:
         return feed["id"], "unchanged", [], {}
     if r.status_code != 200:
