@@ -8,6 +8,7 @@ on:
       - feeds.opml
       - build.py
       - template.html
+      - cache-local.json
 permissions:
   contents: write
 concurrency:
@@ -28,5 +29,7 @@ jobs:
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
           git add -A cache.json docs
-          git diff --cached --quiet || git commit -qm "build"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -qm "build"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done
+          exit 1
