@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="1.0">
+  <head>
+    <title>My feeds</title>
+  </head>
+  <body>
+    <outline text="Feeds" title="Feeds">
+      <outline title="Economist Writing Every Day" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://economistwritingeveryday.com/feed/" text="Economist Writing Every Day" />
+      <outline title="Colossal" category="Culture" type="rss" xmlUrl="https://www.thisiscolossal.com/feed/" text="Colossal" />
+      <outline title="swissmiss" category="Culture" type="rss" xmlUrl="https://www.swiss-miss.com/feed" text="swissmiss" />
+      <outline title="Liberty Street Economics" category="Consumption,Research" type="rss" xmlUrl="https://libertystreeteconomics.newyorkfed.org/feed/" text="Liberty Street Economics" />
+      <outline title="Primer" category="Consumption,Culture" type="rss" xmlUrl="https://www.primermagazine.com/feed" text="Primer" />
+      <outline title="Truth on the Market" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://truthonthemarket.com/feed/" text="Truth on the Market" />
+      <outline title="ISO50 Blog – The Blog of Scott Hansen (Tycho / ISO50)" category="Consumption,Culture" type="rss" xmlUrl="http://blog.iso50.com/feed/" text="ISO50 Blog – The Blog of Scott Hansen (Tycho / ISO50)" />
+      <outline title="The Leisure of the Theory Class" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://theoryclass.wordpress.com/feed/" text="The Leisure of the Theory Class" />
+      <outline title="CLS Blue Sky Blog" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://clsbluesky.law.columbia.edu/feed/" text="CLS Blue Sky Blog" />
+      <outline title="Study Hacks - Decoding Patterns of Success - Cal Newport" category="Productivity Life,Consumption" type="rss" xmlUrl="https://feeds.feedburner.com/studyhacks" text="Study Hacks - Decoding Patterns of Success - Cal Newport" />
+      <outline title="Musings on Markets" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://aswathdamodaran.blogspot.com/feeds/posts/default" text="Musings on Markets" />
+      <outline title="Knowledge Management and Knowledge Economy" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-knm.rss.xml" text="Knowledge Management and Knowledge Economy" />
+      <outline title="HYPEBEAST" category="Culture" type="rss" xmlUrl="https://hypebeast.com/feed" text="HYPEBEAST" />
+      <outline title="New Lines Magazine" category="News" type="rss" xmlUrl="https://newlinesmag.com/feed" text="New Lines Magazine" />
+      <outline title="Quanta Magazine" category="Industry Sites" type="rss" xmlUrl="https://quantamagazine.org/feed" text="Quanta Magazine" />
+      <outline title="Matt Levine - Bloomberg Opinion Columnist" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss" text="Matt Levine - Bloomberg Opinion Columnist" />
+      <outline title="Economics from the Top Down" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://economicsfromthetopdown.com/feed/" text="Economics from the Top Down" />
+      <outline title="Microeconomic Insights" category="Consumption,Research" type="rss" xmlUrl="https://microeconomicinsights.org/feed/" text="Microeconomic Insights" />
+      <outline title="The Grumpy Economist" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="http://johnhcochrane.blogspot.com/feeds/posts/default" text="The Grumpy Economist" />
+      <outline title="Behance Featured Projects" category="Culture" type="rss" xmlUrl="http://feeds.feedburner.com/behance/vorr" text="Behance Featured Projects" />
+      <outline title="Marginal Revolution" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://feeds.feedblitz.com/marginalrevolution&amp;x=1" text="Marginal Revolution" />
+      <outline title="Greg Mankiw's Blog" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="http://gregmankiw.blogspot.com/feeds/posts/default" text="Greg Mankiw's Blog" />
+      <outline title="Axios" category="News" type="rss" xmlUrl="https://www.axios.com/feeds/feed.rss" text="Axios" />
+      <outline title="FA RSS" category="News" type="rss" xmlUrl="https://www.foreignaffairs.com/rss.xml" text="FA RSS" />
+      <outline title="Design MilkDesign Milk" category="Culture" type="rss" xmlUrl="http://feeds.feedburner.com/design-milk" text="Design MilkDesign Milk" />
+      <outline title="Deep Questions with Cal Newport" category="Productivity Life" type="rss" xmlUrl="https://feeds.buzzsprout.com/1121972.rss" text="Deep Questions with Cal Newport" />
+      <outline title="Econlib" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="http://econlog.econlib.org/index.xml" text="Econlib" />
+      <outline title="ScienceDirect Publication: Journal of Financial Economics" category="Consumption,Research" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/0304405X" text="ScienceDirect Publication: Journal of Financial Economics" />
+      <outline title="iorms: Management Science: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="https://pubsonline.informs.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=mnsc" text="iorms: Management Science: Table of Contents" />
+      <outline title="Market Design" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="http://marketdesigner.blogspot.com/feeds/posts/default" text="Market Design" />
+      <outline title="designboom | architecture &amp; design magazine" category="Culture" type="rss" xmlUrl="https://www.designboom.com/feed/" text="designboom | architecture &amp; design magazine" />
+      <outline title="Puck" category="News" type="rss" xmlUrl="https://puck.news/feed/" text="Puck" />
+      <outline title="American Economic Review" category="Consumption,Research" type="rss" xmlUrl="http://pubs.aeaweb.org/rss/etoc/aer" text="American Economic Review" />
+      <outline title="Above the Law" category="Industry Sites" type="rss" xmlUrl="http://www.abovethelaw.com/index.xml" text="Above the Law" />
+      <outline title="Francine McKenna" category="Industry Sites" type="rss" xmlUrl="http://retheauditors.com/feed/" text="Francine McKenna" />
+      <outline title="Semafor" category="News" type="rss" xmlUrl="https://www.semafor.com/rss.xml" text="Semafor" />
+      <outline title="Valet." category="Culture" type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" text="Valet." />
+      <outline title="Going Concern" category="Industry Sites" type="rss" xmlUrl="http://feeds.feedburner.com/goingconcern" text="Going Concern" />
+      <outline title="National Bureau of Economic Research Working Papers" category="Consumption,Research" type="rss" xmlUrl="http://www.nber.org/rss/new.xml" text="National Bureau of Economic Research Working Papers" />
+      <outline title="Business Law Prof Blog" category="Law/Econ/Biz" type="rss" xmlUrl="http://lawprofessors.typepad.com/business_law/atom.xml" text="Business Law Prof Blog" />
+      <outline title="Business Economics" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-bec.rss.xml" text="Business Economics" />
+      <outline title="Wiley: The Journal of Finance: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1540-6261" text="Wiley: The Journal of Finance: Table of Contents" />
+      <outline title="AEA Research Highlights" category="Consumption,Research" type="rss" xmlUrl="https://www.aeaweb.org/research/rss-feed" text="AEA Research Highlights" />
+      <outline title="Air Mail" category="Culture" type="rss" xmlUrl="https://airmail.news/issues.xml" text="Air Mail" />
+      <outline title="Journal of Financial and Quantitative Analysis" category="Consumption,Research" type="rss" xmlUrl="https://www.cambridge.org/core/rss/product/id/FB35548FF614F4556E96D01FA2CB412E" text="Journal of Financial and Quantitative Analysis" />
+      <outline title="ScienceDirect Publication: Journal of Accounting and Economics" category="Consumption,Research" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/01654101" text="ScienceDirect Publication: Journal of Accounting and Economics" />
+      <outline title="Podcast Archives | The Art of Manliness" category="Productivity Life" type="rss" xmlUrl="https://www.artofmanliness.com/podcast/feed/" text="Podcast Archives | The Art of Manliness" />
+      <outline title="Latest Results for Review of Accounting Studies" category="Consumption,Research" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=11142&amp;channel-name=Review+of+Accounting+Studies" text="Latest Results for Review of Accounting Studies" />
+      <outline title="Wiley: Journal of Accounting Research: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1475-679X" text="Wiley: Journal of Accounting Research: Table of Contents" />
+      <outline title="Wiley: Contemporary Accounting Research: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1911-3846" text="Wiley: Contemporary Accounting Research: Table of Contents" />
+      <outline title="Securities Law Prof Blog" category="Industry Sites" type="rss" xmlUrl="http://lawprofessors.typepad.com/securities/atom.xml" text="Securities Law Prof Blog" />
+      <outline title="Tax Foundation" category="Industry Sites" type="rss" xmlUrl="http://feeds.feedburner.com/TaxPolicyBlog" text="Tax Foundation" />
+      <outline title="The University of Chicago Press: The Journal of Politics: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="http://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=jop" text="The University of Chicago Press: The Journal of Politics: Table of Contents" />
+      <outline title="The Review of Economic Studies" category="Consumption,Research" type="rss" xmlUrl="http://www.restud.com/feed/?post_type=paper" text="The Review of Economic Studies" />
+      <outline title="Labour Economics" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-lab.rss.xml" text="Labour Economics" />
+      <outline title="Law and Economics" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-law.rss.xml" text="Law and Economics" />
+      <outline title="The Review of Economic Studies Advance Access" category="Consumption,Research" type="rss" xmlUrl="http://restud.oxfordjournals.org/rss/ahead.xml" text="The Review of Economic Studies Advance Access" />
+      <outline title="Annual Reviews: Annual Review of Financial Economics: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="https://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=67c8&amp;jc=financial&amp;type=etoc&amp;feed=atom" text="Annual Reviews: Annual Review of Financial Economics: Table of Contents" />
+      <outline title="The Quarterly Journal of Economics Advance Access" category="Consumption,Research" type="rss" xmlUrl="https://academic.oup.com/rss/site_5504/advanceAccess_3365.xml" text="The Quarterly Journal of Economics Advance Access" />
+      <outline title="Antitrust &amp; Competition Policy Blog" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml" text="Antitrust &amp; Competition Policy Blog" />
+      <outline title="The New Yorker" category="Reading" type="rss" xmlUrl="https://www.newyorker.com/feed/rss" text="The New Yorker" />
+      <outline title="Annual Reviews: Annual Review of Economics: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="https://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=67b7&amp;jc=economics&amp;type=etoc&amp;feed=atom" text="Annual Reviews: Annual Review of Economics: Table of Contents" />
+      <outline title="U.S. Supreme Court Oral Arguments" category="Industry Sites" type="rss" xmlUrl="https://api.oyez.org/podcasts/oral-arguments/2015" text="U.S. Supreme Court Oral Arguments" />
+      <outline title="ProMarket" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.promarket.org/feed/" text="ProMarket" />
+      <outline title="UCLA Law Review" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.uclalawreview.org/feed/" text="UCLA Law Review" />
+      <outline title="Public Economics" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-pbe.rss.xml" text="Public Economics" />
+      <outline title="The Review of Financial Studies Current Issue" category="Consumption,Research" type="rss" xmlUrl="http://rfs.oxfordjournals.org/rss/current.xml" text="The Review of Financial Studies Current Issue" />
+      <outline title="The Quarterly Journal of Economics Current Issue" category="Consumption,Research" type="rss" xmlUrl="https://academic.oup.com/rss/site_5504/3365.xml" text="The Quarterly Journal of Economics Current Issue" />
+      <outline title="Justice News" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.justice.gov/news/rss?m=1" text="Justice News" />
+      <outline title="The Surly Subgroup" category="Industry Sites,Consumption" type="rss" xmlUrl="https://feeds.feedburner.com/surlysubgroup/lMRm" text="The Surly Subgroup" />
+      <outline title="The Paris Review" category="Reading" type="rss" xmlUrl="http://www.theparisreview.org/blog/feed/" text="The Paris Review" />
+      <outline title="City Journal" category="Law/Econ/Biz" type="rss" xmlUrl="http://feeds.feedburner.com/city-journal" text="City Journal" />
+      <outline title="Finance &amp; economics" category="News" type="rss" xmlUrl="https://www.economist.com/finance-and-economics/rss.xml" text="Finance &amp; economics" />
+      <outline title="Business" category="News" type="rss" xmlUrl="https://www.economist.com/business/rss.xml" text="Business" />
+      <outline title="United States" category="News" type="rss" xmlUrl="https://www.economist.com/united-states/rss.xml" text="United States" />
+      <outline title="nymag.com: Media" category="Reading" type="rss" xmlUrl="http://www.nymag.com/rss/Media.xml" text="nymag.com: Media" />
+      <outline title="The Sunday Long Read" category="Reading" type="rss" xmlUrl="https://sundaylongread.com/feed/" text="The Sunday Long Read" />
+      <outline title="Longreads" category="Reading" type="rss" xmlUrl="https://longreads.com/feed/" text="Longreads" />
+      <outline title="Financial Times" category="News" type="rss" xmlUrl="https://rss.app/feeds/mJdYkrXjSPlIxWtT.xml" text="Financial Times" />
+      <outline title="Business Scholarship Podcast – Andrew K. Jennings" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://andrewkjennings.com/podcast/feed/" text="Business Scholarship Podcast – Andrew K. Jennings" />
+      <outline title="Research" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/7imCfJCWpTF0K31a.xml" text="Research" />
+      <outline title="Tax Econ" category="Consumption" type="rss" xmlUrl="https://rss.app/feeds/JpTVM3JcRz4fRq86.xml" text="Tax Econ" />
+      <outline title="The FinReg Blog" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://sites.law.duke.edu/thefinregblog/feed/" text="The FinReg Blog" />
+      <outline title="Image" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/sbNWFSjgESvkDa8u.xml" text="Image" />
+      <outline title="Economists" category="Twitter" type="rss" xmlUrl="https://rss.app/feeds/DCzUSvXwEjZazqxt.xml" text="Economists" />
+      <outline title="Labor Markets - Supply, Demand, and Wages" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-lma.rss.xml" text="Labor Markets - Supply, Demand, and Wages" />
+      <outline title="TheCorporateCounsel.net Blog" category="Industry Sites" type="rss" xmlUrl="http://www.thecorporatecounsel.net/Blog/atom.xml" text="TheCorporateCounsel.net Blog" />
+      <outline title="Accounting Research Workshop | The University of Chicago Booth School of Business" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/hlLL6D5jeVGM.xml" text="Accounting Research Workshop | The University of Chicago Booth School of Business" />
+      <outline title="Supreme Court Oral Arguments" category="Industry Sites" type="rss" xmlUrl="http://purveyorofiniquities.com/SCt/" text="Supreme Court Oral Arguments" />
+      <outline title="Review of Finance Advance Access" category="Consumption,Research" type="rss" xmlUrl="http://rof.oxfordjournals.org/rss/ahead.xml" text="Review of Finance Advance Access" />
+      <outline title="On the Other Hand..." category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://dwmackenzie.substack.com/feed/" text="On the Other Hand..." />
+      <outline title="Economic Geography" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-geo.rss.xml" text="Economic Geography" />
+      <outline title="Serenity" category="Consumption,Culture" type="rss" xmlUrl="https://rss.app/feeds/LPPKc2YgZ6AQ8Qbv.xml" text="Serenity" />
+      <outline title="Business Law Reviews" category="Consumption,Research" type="rss" xmlUrl="https://rss.app/feeds/vttFAUabo8FdZTEm.xml" text="Business Law Reviews" />
+      <outline title="On The Merits" category="Law/Econ/Biz" type="rss" xmlUrl="https://feeds.megaphone.fm/BL7273559964" text="On The Merits" />
+      <outline title="The Review of Financial Studies Advance Access" category="Consumption,Research" type="rss" xmlUrl="http://rfs.oxfordjournals.org/rss/ahead.xml" text="The Review of Financial Studies Advance Access" />
+      <outline title="Workshops - Accounting Department" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/UZnoM4N2lKTw.xml" text="Workshops - Accounting Department" />
+      <outline title="Empirical Truths" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://empiricaltruths.substack.com/feed" text="Empirical Truths" />
+      <outline title="Entrepreneurship" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-ent.rss.xml" text="Entrepreneurship" />
+      <outline title="The Visible Hand" category="Consumption,Research" type="rss" xmlUrl="https://www.thevisiblehand.uk/episodes?format=rss" text="The Visible Hand" />
+      <outline title="Innovation" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-ino.rss.xml" text="Innovation" />
+      <outline title="Human Capital and Human Resource Management" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-hrm.rss.xml" text="Human Capital and Human Resource Management" />
+      <outline title="National Affairs Daily Findings" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://api.obormot.net/rss/NationalAffairsDailyFindingsFeed.php" text="National Affairs Daily Findings" />
+      <outline title="Maximum Progress" category="Consumption" type="rss" xmlUrl="https://www.maximum-progress.com/feed" text="Maximum Progress" />
+      <outline title="What's New Under the Sun" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://mattsclancy.substack.com/feed" text="What's New Under the Sun" />
+      <outline title="I Blog to Differ" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://davidrhenderson.substack.com/feed" text="I Blog to Differ" />
+      <outline title="Noah Feldman - Bloomberg Opinion Columnist" category="Consumption" type="rss" xmlUrl="https://www.bloomberg.com/opinion/authors/AFZ_b1F72Xw/noah-feldman.rss" text="Noah Feldman - Bloomberg Opinion Columnist" />
+      <outline title="Noahpinion" category="Consumption" type="rss" xmlUrl="https://www.noahpinion.blog/feed" text="Noahpinion" />
+      <outline title="iorms: Information Systems Research: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="https://pubsonline.informs.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=isre" text="iorms: Information Systems Research: Table of Contents" />
+      <outline title="Wiley: Strategic Management Journal: Table of Contents" category="Consumption,Research" type="rss" xmlUrl="https://onlinelibrary.wiley.com/feed/10970266/most-recent" text="Wiley: Strategic Management Journal: Table of Contents" />
+      <outline title="ScienceDirect Publication: Journal of Public Economics" category="Consumption,Research" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/00472727" text="ScienceDirect Publication: Journal of Public Economics" />
+      <outline title="American Economic Association" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/hv5Y2KNrM4KL.xml" text="American Economic Association" />
+      <outline title="American Economic Association" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/fNCTAWmh0tWW.xml" text="American Economic Association" />
+      <outline title="Accounting Research Workshop Series | Accounting Department" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/rMMlls95Bhe3.xml" text="Accounting Research Workshop Series | Accounting Department" />
+      <outline title="Accounting Faculty Seminars | Stanford Graduate School of Business" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/PTsYeMiSzIB9.xml" text="Accounting Faculty Seminars | Stanford Graduate School of Business" />
+      <outline title="Research Seminars - Center for Financial Reporting &amp; Management - Berkeley Haas" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/E1QzSFkBGr9S.xml" text="Research Seminars - Center for Financial Reporting &amp; Management - Berkeley Haas" />
+      <outline title="Finance Workshop | The University of Chicago Booth School of Business" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/gBe3kdJf0wgp.xml" text="Finance Workshop | The University of Chicago Booth School of Business" />
+      <outline title="Finance Faculty Seminars | Stanford Graduate School of Business" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/bBGUhVO7sR5B.xml" text="Finance Faculty Seminars | Stanford Graduate School of Business" />
+      <outline title="Finance Lunch Seminar | The University of Chicago Booth School of Business" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/hHXt5XkxgisM.xml" text="Finance Lunch Seminar | The University of Chicago Booth School of Business" />
+      <outline title="Finance Research | Robert H. Smith School of Business" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/dl1LPP6t8HF2.xml" text="Finance Research | Robert H. Smith School of Business" />
+      <outline title="Liberty Lens - An Economics Substack" category="Consumption" type="rss" xmlUrl="https://libertylensecon.substack.com/feed" text="Liberty Lens - An Economics Substack" />
+      <outline title="Lauren Policy" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://Laurenpolicy.com/feed" text="Lauren Policy" />
+      <outline title="Agglomerations" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://agglomerations.substack.com/feed" text="Agglomerations" />
+      <outline title="Laura Nicolae" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://lauranicolae.substack.com/feed" text="Laura Nicolae" />
+      <outline title="Economy Class" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://arjunramani.substack.com/feed" text="Economy Class" />
+      <outline title="Zixuan Ma’s Blog" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://zixuanma.blog/feed" text="Zixuan Ma’s Blog" />
+      <outline title="A Dark Room" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://adarkroom.substack.com/feed" text="A Dark Room" />
+      <outline title="Bioeconomics" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://andresdeloera.substack.com/feed" text="Bioeconomics" />
+      <outline title="Great Divergence" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.greatdivergence.com/feed" text="Great Divergence" />
+      <outline title="DiD Digest" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.diddigest.xyz/feed" text="DiD Digest" />
+      <outline title="Beyond Imitation" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://blog.karthiktadepalli.com/feed" text="Beyond Imitation" />
+      <outline title="Sebastian’s Substack" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://sebastiangaliani.substack.com/feed" text="Sebastian’s Substack" />
+      <outline title="Unevenly Combined Thoughts" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://unevenandcombinedthoughts.substack.com/feed" text="Unevenly Combined Thoughts" />
+      <outline title="Causal Inference: the Remix" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://causalinf.substack.com/feed" text="Causal Inference: the Remix" />
+      <outline title="Our Long Walk" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.ourlongwalk.com/feed" text="Our Long Walk" />
+      <outline title="Plugging the Gap" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://joshuagans.substack.com/feed" text="Plugging the Gap" />
+      <outline title="The Capitalism and Freedom in the 21st Century Podcast" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://capitalismandfreedom.substack.com/feed" text="The Capitalism and Freedom in the 21st Century Podcast" />
+      <outline title="Data, On Average" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://nickchk.substack.com/feed" text="Data, On Average" />
+      <outline title="Economic Forces" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.economicforces.xyz/feed" text="Economic Forces" />
+      <outline title="Get Down and Shruti" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://srajagopalan.substack.com/feed" text="Get Down and Shruti" />
+      <outline title="Knowledge Problem" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://knowledgeproblem.substack.com/feed" text="Knowledge Problem" />
+      <outline title="How the World Became Rich" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.markkoyama.com/feed" text="How the World Became Rich" />
+      <outline title="Ghosts of Electricity" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://aleximas.substack.com/feed" text="Ghosts of Electricity" />
+      <outline title="Macroeconomic Policy Nexus" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://macroeconomicpolicynexus.substack.com/feed" text="Macroeconomic Policy Nexus" />
+      <outline title="But This Time It's Different" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.butthistime.com/feed" text="But This Time It's Different" />
+      <outline title="Weltinnenpolitik" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://weltinnenpolitik.substack.com/feed" text="Weltinnenpolitik" />
+      <outline title="Carlos Chavez" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://carloschavezp29.substack.com/feed" text="Carlos Chavez" />
+      <outline title="Articles - Harvard Law Review" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://harvardlawreview.org/category/articles/feed/" text="Articles - Harvard Law Review" />
+      <outline title="Florida Tax Review" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://scholarship.law.ufl.edu/ftr/recent.rss" text="Florida Tax Review" />
+      <outline title="The University of Chicago Press: National Tax Journal: Table of Contents" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ntj" text="The University of Chicago Press: National Tax Journal: Table of Contents" />
+      <outline title="Columbia Journal of Tax Law" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2" text="Columbia Journal of Tax Law" />
+      <outline title="Akron Tax Journal" category="Consumption" type="rss" xmlUrl="https://ideaexchange.uakron.edu/akrontaxjournal/recent.rss" text="Akron Tax Journal" />
+      <outline title="William &amp; Mary Annual Tax Conference" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://scholarship.law.wm.edu/tax/recent.rss" text="William &amp; Mary Annual Tax Conference" />
+      <outline title="Popular by Design" category="Consumption,Research" type="rss" xmlUrl="https://alexanderkustov.substack.com/feed" text="Popular by Design" />
+      <outline title="Title Alert- Tax Lawyer v.78 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_txlr.xml" text="Title Alert- Tax Lawyer v.78 - Updated" />
+      <outline title="Title Alert- Business, Entrepreneurship &amp; Tax Law Review v.9 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_betr.xml" text="Title Alert- Business, Entrepreneurship &amp; Tax Law Review v.9 - Updated" />
+      <outline title="Title Alert- Columbia Journal of Tax Law v.16 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_colujoutl.xml" text="Title Alert- Columbia Journal of Tax Law v.16 - Updated" />
+      <outline title="Title Alert- eJournal of Tax Research v.23 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_ejotaxrs.xml" text="Title Alert- eJournal of Tax Research v.23 - Updated" />
+      <outline title="Title Alert- Florida Tax Review v.28 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_ftaxr.xml" text="Title Alert- Florida Tax Review v.28 - Updated" />
+      <outline title="Title Alert- Fordham Journal of Corporate and Financial Law v.30 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_fjcf.xml" text="Title Alert- Fordham Journal of Corporate and Financial Law v.30 - Updated" />
+      <outline title="Title Alert- Houston Business and Tax Law Journal v.25 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_houbtalj.xml" text="Title Alert- Houston Business and Tax Law Journal v.25 - Updated" />
+      <outline title="Title Alert- Berkeley Journal of International Law v.43 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_berkjintlw.xml" text="Title Alert- Berkeley Journal of International Law v.43 - Updated" />
+      <outline title="Title Alert- Journal of State Taxation v.43 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_jrnsttax.xml" text="Title Alert- Journal of State Taxation v.43 - Updated" />
+      <outline title="Title Alert- Journal of Tax Practice &amp; Procedure v.27 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_jtaxpp.xml" text="Title Alert- Journal of Tax Practice &amp; Procedure v.27 - Updated" />
+      <outline title="Title Alert- Journal of Taxation of Financial Products v.22 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_jrlfin.xml" text="Title Alert- Journal of Taxation of Financial Products v.22 - Updated" />
+      <outline title="Title Alert- Journal of Taxation (West) v.140 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_jnltxw.xml" text="Title Alert- Journal of Taxation (West) v.140 - Updated" />
+      <outline title="Title Alert- Taxes: The Tax Magazine v.103 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_taxtm.xml" text="Title Alert- Taxes: The Tax Magazine v.103 - Updated" />
+      <outline title="Title Alert- Tax Executive v.77 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_taxexe.xml" text="Title Alert- Tax Executive v.77 - Updated" />
+      <outline title="Title Alert- Pittsburgh Tax Review v.22 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_pittax.xml" text="Title Alert- Pittsburgh Tax Review v.22 - Updated" />
+      <outline title="Title Alert- Tax Adviser v.57 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_txadv.xml" text="Title Alert- Tax Adviser v.57 - Updated" />
+      <outline title="Title Alert- Tax Law Review v.77 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_taxlr.xml" text="Title Alert- Tax Law Review v.77 - Updated" />
+      <outline title="Title Alert- Tax Magazine v.2025 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_txmgz.xml" text="Title Alert- Tax Magazine v.2025 - Updated" />
+      <outline title="Title Alert- Tax Policy and the Economy v.39 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_txpeco.xml" text="Title Alert- Tax Policy and the Economy v.39 - Updated" />
+      <outline title="Title Alert- Virginia Tax Review v.45 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_vrgtr.xml" text="Title Alert- Virginia Tax Review v.45 - Updated" />
+      <outline title="Title Alert- New York University Journal of Law and Business v.21 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_nyujolbu.xml" text="Title Alert- New York University Journal of Law and Business v.21 - Updated" />
+      <outline title="Title Alert- ABA Tax Times v.44 - Updated" category="HeinOnline Journals" type="rss" xmlUrl="https://heinonline.org/HeinDocs/kbart/rss_journals_newsqtrly.xml" text="Title Alert- ABA Tax Times v.44 - Updated" />
+      <outline title="Judgment Calls" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://judgmentcalls.substack.com/feed" text="Judgment Calls" />
+      <outline title="EJMR - Latest Research Discussion" category="Consumption" type="rss" xmlUrl="https://aruhnv.github.io/ejmr-rss-feed/feed.xml" text="EJMR - Latest Research Discussion" />
+      <outline title="EJMR - Finance Job Rumors" category="Consumption" type="rss" xmlUrl="https://aruhnv.github.io/ejmr-rss-feed/finance-job-rumors.xml" text="EJMR - Finance Job Rumors" />
+      <outline title="EJMR - Research / Journals" category="Consumption" type="rss" xmlUrl="https://aruhnv.github.io/ejmr-rss-feed/research-journals.xml" text="EJMR - Research / Journals" />
+      <outline title="Rohit Lamba" category="Consumption,Research" type="rss" xmlUrl="https://rohitlamba.substack.com/feed" text="Rohit Lamba" />
+      <outline title="Event Study" category="Consumption,Research" type="rss" xmlUrl="https://yiqingxu.substack.com/feed" text="Event Study" />
+      <outline title="Soccer" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/pFuwluVOjklhZ8gZ.xml" text="Soccer" />
+      <outline title="Basketball" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/IHKwzKeg17qxdhik.xml" text="Basketball" />
+      <outline title="@/Tax Policy / X List" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/nSoeWRh6KaGwoJLQ.xml" text="@/Tax Policy / X List" />
+      <outline title="Long reads" category="Reading" type="rss" xmlUrl="https://rss.app/feeds/gtNSX4m52t1luiu6.xml" text="Long reads" />
+      <outline title="Legal Theory Blog" type="rss" xmlUrl="https://legaltheoryblog.com/feed/" category="Uncategorized" text="Legal Theory Blog" />
+      <outline title="Useful Knowledge" type="rss" xmlUrl="https://kevinbryanecon.com/usefulknowledge/rss.xml" category="Uncategorized" text="Useful Knowledge" />
+    </outline>
+  </body>
+</opml>
