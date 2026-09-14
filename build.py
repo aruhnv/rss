@@ -81,7 +81,7 @@ def entry_time(e):
     return None
 
 
-def strip_html(s, limit=280):
+def strip_html(s, limit=2000):
     s = re.sub(r"<[^>]+>", " ", s or "")
     s = html.unescape(s)
     s = re.sub(r"\s+", " ", s).strip()
@@ -121,12 +121,16 @@ def fetch_one(feed, state, now):
             summary = e["summary"]
         elif e.get("content"):
             summary = e["content"][0].get("value", "")
+        author = e.get("author") or ""
+        if not author and e.get("authors"):
+            author = ", ".join(a.get("name", "") for a in e["authors"] if a.get("name"))
         items.append({
             "guid": guid,
             "feed": feed["id"],
             "title": title,
             "link": link,
             "ts": int(ts),
+            "author": strip_html(author, 200),
             "summary": strip_html(summary),
         })
     new_state = {"etag": r.headers.get("ETag"), "modified": r.headers.get("Last-Modified")}
@@ -214,7 +218,7 @@ def main():
     data = {
         "generated": now,
         "feeds": [{"id": f["id"], "title": f["title"], "tags": f["tags"], "site": f["site"]} for f in feeds],
-        "items": [{"f": it["feed"], "t": it["title"], "l": it["link"], "d": it["ts"], "s": it["summary"],
+        "items": [{"f": it["feed"], "t": it["title"], "l": it["link"], "d": it["ts"], "s": it["summary"], "a": it.get("author", ""),
                    "k": hashlib.sha1((it["feed"] + ":" + it["guid"]).encode()).hexdigest()[:12]}
                   for it in page_items],
     }

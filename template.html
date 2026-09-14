@@ -26,8 +26,10 @@
   .it { display:grid; grid-template-columns:auto 1fr auto; gap:0 10px; padding:6px 0; align-items:baseline }
   .it .tm { color:var(--muted); font-size:12px; white-space:nowrap }
   .it .src { color:var(--muted); font-size:12px }
-  .it .ttl { font-size:15px }
-  .it .sum { grid-column:2 / 4; color:var(--muted); font-size:13px; margin-top:2px; display:none }
+  .it .ttl { font-size:15px } .it .ttl a { font-weight:bold }
+  .it .au { color:var(--muted); font-size:12px }
+  .it .sum a.go { display:inline-block; margin-top:4px; font-weight:bold }
+  .it .sum { grid-column:2 / 4; color:var(--fg); font-size:13px; margin-top:4px; display:none; white-space:pre-wrap }
   .it.open .sum { display:block }
   .it.read .ttl a { color:var(--read) }
   .it .mk { border:0; background:none; color:var(--muted); cursor:pointer; font:inherit; font-size:12px; padding:0 4px }
@@ -53,7 +55,7 @@
 </div>
 
 <div id="list"></div>
-<footer>Click a title to open it (marks read). Click the line to show the snippet. Read state is stored in this browser only. <a href="failures.txt">failures.txt</a></footer>
+<footer>Click a title to show the abstract; click again to open it (marks read). Read state is stored in this browser only. <a href="failures.txt">failures.txt</a></footer>
 
 <script>
 const DATA = /*__DATA__*/null;
@@ -121,10 +123,17 @@ function render() {
     const row = document.createElement('div'); row.className = 'it' + (read.has(i.k) ? ' read' : ''); row.dataset.k = i.k;
     row.innerHTML =
       '<span class="tm">' + fmtTime(i.d) + '</span>' +
-      '<span class="ttl"><a href="' + esc(i.l || '#') + '" target="_blank" rel="noopener">' + esc(i.t) + '</a> <span class="src">' + esc(f.title) + '</span></span>' +
+      '<span class="ttl"><a href="' + esc(i.l || '#') + '" target="_blank" rel="noopener">' + esc(i.t) + '</a> <span class="src">' + esc(f.title) + '</span>' + (i.a ? ' <span class="au">· ' + esc(i.a) + '</span>' : '') + '</span>' +
       '<button class="mk" title="toggle read">' + (read.has(i.k) ? '↺' : '✓') + '</button>' +
-      (i.s ? '<div class="sum">' + esc(i.s) + '</div>' : '');
-    row.querySelector('a').addEventListener('click', () => mark(i.k, true, row));
+      (i.s ? '<div class="sum">' + esc(i.s) + '<br><a class="go" href="' + esc(i.l || '#') + '" target="_blank" rel="noopener">open ↗</a></div>' : '');
+    row.querySelector('.ttl a').addEventListener('click', e => {
+      // first click shows the abstract; second click (or cmd/ctrl-click, or no abstract) opens the link
+      if (i.s && !row.classList.contains('open') && !(e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1)) {
+        e.preventDefault(); row.classList.add('open'); return;
+      }
+      mark(i.k, true, row);
+    });
+    const go = row.querySelector('.sum a.go'); if (go) go.addEventListener('click', () => mark(i.k, true, row));
     row.querySelector('.mk').addEventListener('click', e => { e.stopPropagation(); mark(i.k, !read.has(i.k), row); });
     row.addEventListener('click', e => { if (e.target.closest('a,button')) return; row.classList.toggle('open'); });
     frag.appendChild(row);
