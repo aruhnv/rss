@@ -37,6 +37,7 @@
       <outline title="FT Technology" category="News" type="rss" xmlUrl="https://www.ft.com/technology?format=rss" text="FT Technology" />
       <outline title="FT Magazine" category="News" type="rss" xmlUrl="https://www.ft.com/magazine?format=rss" text="FT Magazine" />
       <outline title="FT The Big Read" category="News" type="rss" xmlUrl="https://www.ft.com/the-big-read?format=rss" text="FT The Big Read" />
+      <outline title="Google News: tax" category="News" type="rss" xmlUrl="https://news.google.com/rss/search?q=tax&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" text="Google News: tax" />
       <outline title="Axios" category="News" type="rss" xmlUrl="https://www.axios.com/feeds/feed.rss" text="Axios" />
       <outline title="FA RSS" category="News" type="rss" xmlUrl="https://www.foreignaffairs.com/rss.xml" text="FA RSS" />
       <outline title="Design MilkDesign Milk" category="Culture" type="rss" xmlUrl="http://feeds.feedburner.com/design-milk" text="Design MilkDesign Milk" />
