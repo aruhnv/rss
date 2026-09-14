@@ -27,6 +27,7 @@
       <outline title="Behance Featured Projects" category="Culture" type="rss" xmlUrl="http://feeds.feedburner.com/behance/vorr" text="Behance Featured Projects" />
       <outline title="Marginal Revolution" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://feeds.feedblitz.com/marginalrevolution&amp;x=1" text="Marginal Revolution" />
       <outline title="Greg Mankiw's Blog" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="http://gregmankiw.blogspot.com/feeds/posts/default" text="Greg Mankiw's Blog" />
+      <outline title="Financial Times" category="News" type="rss" xmlUrl="https://www.ft.com/rss/home" text="Financial Times" />
       <outline title="Axios" category="News" type="rss" xmlUrl="https://www.axios.com/feeds/feed.rss" text="Axios" />
       <outline title="FA RSS" category="News" type="rss" xmlUrl="https://www.foreignaffairs.com/rss.xml" text="FA RSS" />
       <outline title="Design MilkDesign Milk" category="Culture" type="rss" xmlUrl="http://feeds.feedburner.com/design-milk" text="Design MilkDesign Milk" />
@@ -83,13 +84,8 @@
       <outline title="nymag.com: Media" category="Reading" type="rss" xmlUrl="http://www.nymag.com/rss/Media.xml" text="nymag.com: Media" />
       <outline title="The Sunday Long Read" category="Reading" type="rss" xmlUrl="https://sundaylongread.com/feed/" text="The Sunday Long Read" />
       <outline title="Longreads" category="Reading" type="rss" xmlUrl="https://longreads.com/feed/" text="Longreads" />
-      <outline title="Financial Times" category="News" type="rss" xmlUrl="https://rss.app/feeds/mJdYkrXjSPlIxWtT.xml" text="Financial Times" />
       <outline title="Business Scholarship Podcast – Andrew K. Jennings" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://andrewkjennings.com/podcast/feed/" text="Business Scholarship Podcast – Andrew K. Jennings" />
-      <outline title="Research" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/7imCfJCWpTF0K31a.xml" text="Research" />
-      <outline title="Tax Econ" category="Consumption" type="rss" xmlUrl="https://rss.app/feeds/JpTVM3JcRz4fRq86.xml" text="Tax Econ" />
       <outline title="The FinReg Blog" category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://sites.law.duke.edu/thefinregblog/feed/" text="The FinReg Blog" />
-      <outline title="Image" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/sbNWFSjgESvkDa8u.xml" text="Image" />
-      <outline title="Economists" category="Twitter" type="rss" xmlUrl="https://rss.app/feeds/DCzUSvXwEjZazqxt.xml" text="Economists" />
       <outline title="Labor Markets - Supply, Demand, and Wages" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-lma.rss.xml" text="Labor Markets - Supply, Demand, and Wages" />
       <outline title="TheCorporateCounsel.net Blog" category="Industry Sites" type="rss" xmlUrl="http://www.thecorporatecounsel.net/Blog/atom.xml" text="TheCorporateCounsel.net Blog" />
       <outline title="Accounting Research Workshop | The University of Chicago Booth School of Business" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/hlLL6D5jeVGM.xml" text="Accounting Research Workshop | The University of Chicago Booth School of Business" />
@@ -97,8 +93,6 @@
       <outline title="Review of Finance Advance Access" category="Consumption,Research" type="rss" xmlUrl="http://rof.oxfordjournals.org/rss/ahead.xml" text="Review of Finance Advance Access" />
       <outline title="On the Other Hand..." category="Law/Econ/Biz,Consumption" type="rss" xmlUrl="https://dwmackenzie.substack.com/feed/" text="On the Other Hand..." />
       <outline title="Economic Geography" category="Consumption,Research" type="rss" xmlUrl="http://nep.repec.org/rss/nep-geo.rss.xml" text="Economic Geography" />
-      <outline title="Serenity" category="Consumption,Culture" type="rss" xmlUrl="https://rss.app/feeds/LPPKc2YgZ6AQ8Qbv.xml" text="Serenity" />
-      <outline title="Business Law Reviews" category="Consumption,Research" type="rss" xmlUrl="https://rss.app/feeds/vttFAUabo8FdZTEm.xml" text="Business Law Reviews" />
       <outline title="On The Merits" category="Law/Econ/Biz" type="rss" xmlUrl="https://feeds.megaphone.fm/BL7273559964" text="On The Merits" />
       <outline title="The Review of Financial Studies Advance Access" category="Consumption,Research" type="rss" xmlUrl="http://rfs.oxfordjournals.org/rss/ahead.xml" text="The Review of Financial Studies Advance Access" />
       <outline title="Workshops - Accounting Department" category="Consumption,Research" type="rss" xmlUrl="https://politepol.com/fd/UZnoM4N2lKTw.xml" text="Workshops - Accounting Department" />
@@ -187,10 +181,6 @@
       <outline title="EJMR - Research / Journals" category="Consumption" type="rss" xmlUrl="https://aruhnv.github.io/ejmr-rss-feed/research-journals.xml" text="EJMR - Research / Journals" />
       <outline title="Rohit Lamba" category="Consumption,Research" type="rss" xmlUrl="https://rohitlamba.substack.com/feed" text="Rohit Lamba" />
       <outline title="Event Study" category="Consumption,Research" type="rss" xmlUrl="https://yiqingxu.substack.com/feed" text="Event Study" />
-      <outline title="Soccer" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/pFuwluVOjklhZ8gZ.xml" text="Soccer" />
-      <outline title="Basketball" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/IHKwzKeg17qxdhik.xml" text="Basketball" />
-      <outline title="@/Tax Policy / X List" category="Twitter,Consumption" type="rss" xmlUrl="https://rss.app/feeds/nSoeWRh6KaGwoJLQ.xml" text="@/Tax Policy / X List" />
-      <outline title="Long reads" category="Reading" type="rss" xmlUrl="https://rss.app/feeds/gtNSX4m52t1luiu6.xml" text="Long reads" />
       <outline title="Legal Theory Blog" type="rss" xmlUrl="https://legaltheoryblog.com/feed/" category="Uncategorized" text="Legal Theory Blog" />
       <outline title="Useful Knowledge" type="rss" xmlUrl="https://kevinbryanecon.com/usefulknowledge/rss.xml" category="Uncategorized" text="Useful Knowledge" />
     </outline>
