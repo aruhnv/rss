@@ -28,6 +28,8 @@ except Exception:  # optional
 HERE = os.path.dirname(os.path.abspath(__file__))
 OPML = os.path.join(HERE, "feeds.opml")
 CACHE = os.path.join(HERE, "cache.json")
+LOCAL_CACHE = os.path.join(HERE, "cache-local.json")   # written only by the Mac job (blocked feeds)
+LOCAL_FRESH_DAYS = 3                                    # a Mac fetch this recent counts as "working"
 OUT_DIR = os.path.join(HERE, "docs")
 TEMPLATE = os.path.join(HERE, "template.html")
 
@@ -166,14 +168,34 @@ def fetch_one(feed, state, now):
 
 # ---------- main ----------
 
+def load_json(path):
+    if os.path.exists(path):
+        try:
+            d = json.load(open(path, encoding="utf-8"))
+            d.setdefault("feeds", {})
+            d.setdefault("items", {})
+            return d
+        except Exception:
+            pass
+    return {"feeds": {}, "items": {}}
+
+
 def main():
+    local_mode = "--local" in sys.argv
     now = int(time.time())
     feeds = load_feeds()
-    cache = {"feeds": {}, "items": {}}
-    if os.path.exists(CACHE):
-        cache = json.load(open(CACHE, encoding="utf-8"))
-    cache.setdefault("feeds", {})
-    cache.setdefault("items", {})
+    main_cache = load_json(CACHE)
+    local_cache = load_json(LOCAL_CACHE)
+
+    if local_mode:
+        # Mac job: only fetch feeds that GitHub's runner cannot reach (failing in the main cache),
+        # and keep their state in cache-local.json so the two jobs never write the same file.
+        blocked = {fid for fid, st in main_cache["feeds"].items() if st.get("fail_count", 0) > 0}
+        feeds = [f for f in feeds if f["id"] in blocked] if main_cache["feeds"] else feeds
+        cache = local_cache
+        print(f"local mode: fetching {len(feeds)} blocked feeds")
+    else:
+        cache = main_cache
 
     results = {}
     with cf.ThreadPoolExecutor(max_workers=WORKERS) as pool:
@@ -196,6 +218,12 @@ def main():
                     if key not in cache["items"]:
                         st["seen"][it["guid"]] = it["ts"]
                         cache["items"][key] = it
+
+    if not local_mode:
+        # merge items the Mac fetched for blocked feeds
+        for key, it in local_cache["items"].items():
+            if key not in cache["items"]:
+                cache["items"][key] = it
 
     # prune: per-feed keep window, then dedupe by link across feeds
     by_feed = {}
@@ -226,21 +254,40 @@ def main():
         page_items.append(it)
 
     # write outputs
+    if local_mode:
+        json.dump(cache, open(LOCAL_CACHE, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+        ok = sum(1 for s_ in results.values() if s_ in ("ok", "unchanged"))
+        print(f"local: {ok}/{len(feeds)} blocked feeds fetched from this machine")
+        for f in feeds:
+            if results.get(f["id"]) not in ("ok", "unchanged"):
+                print(f"  still failing: {f['title']} -> {results.get(f['id'])}")
+        return 0
+
     os.makedirs(OUT_DIR, exist_ok=True)
     json.dump(cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 
-    failures = []
+    failures, via_mac = [], []
     for f in feeds:
         st = cache["feeds"].get(f["id"], {})
         status = results.get(f["id"], "not fetched")
-        if status not in ("ok", "unchanged"):
+        if status in ("ok", "unchanged"):
+            continue
+        lst = local_cache["feeds"].get(f["id"], {})
+        if lst.get("last_ok") and now - lst["last_ok"] < LOCAL_FRESH_DAYS * 86400:
+            via_mac.append((f["title"], lst["last_ok"]))
+        else:
             failures.append((st.get("fail_count", 0), f["title"], f["url"], status))
     failures.sort(reverse=True)
     with open(os.path.join(OUT_DIR, "failures.txt"), "w", encoding="utf-8") as fh:
         fh.write(f"Run: {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC\n")
-        fh.write(f"Feeds: {len(feeds)}  OK: {len(feeds) - len(failures)}  Failed: {len(failures)}\n\n")
+        fh.write(f"Feeds: {len(feeds)}  OK: {len(feeds) - len(failures) - len(via_mac)}  "
+                 f"Via Mac: {len(via_mac)}  Failed: {len(failures)}\n\n")
         for n, title, url, status in failures:
             fh.write(f"[{n} consecutive] {title}\n  {url}\n  {status}\n\n")
+        if via_mac:
+            fh.write("Blocked for GitHub but fetched from the Mac recently:\n")
+            for title, t in sorted(via_mac):
+                fh.write(f"  {title}  (last {datetime.fromtimestamp(t, timezone.utc):%Y-%m-%d %H:%M} UTC)\n")
 
     data = {
         "generated": now,
