@@ -1,0 +1,27 @@
+name: fetch blocked feeds (Mac)
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: local
+  cancel-in-progress: true
+jobs:
+  fetch:
+    runs-on: self-hosted
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install --quiet --user feedparser requests curl_cffi
+      - run: python3 build.py --local
+      - name: commit
+        run: |
+          git config user.name "feed-bot-mac"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add cache-local.json
+          git diff --cached --quiet && exit 0
+          git commit -qm "local fetch"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done
+          exit 1
