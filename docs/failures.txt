@@ -1,65 +1,71 @@
-Run: 2026-09-17 11:31 UTC
-Feeds: 188  OK: 142  Via Mac: 32  Failed: 14
+Run: 2026-09-17 12:41 UTC
+Feeds: 188  OK: 138  Via Mac: 35  Failed: 15
 
-[37 consecutive] Securities Law Prof Blog
+[38 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[37 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[38 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[37 consecutive] Latest Results for Review of Accounting Studies
+[38 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[37 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[38 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[37 consecutive] Finance Research | Robert H. Smith School of Business
+[38 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[37 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[38 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[37 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[38 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[37 consecutive] Columbia Journal of Tax Law
+[38 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[37 consecutive] Business Law Prof Blog
+[38 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[37 consecutive] Antitrust & Competition Policy Blog
+[38 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[37 consecutive] American Economic Association
+[38 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[37 consecutive] American Economic Association
+[38 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[37 consecutive] Accounting Research Workshop Series | Accounting Department
+[38 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[37 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[38 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
+
+[1 consecutive] AEA Research Highlights
+  https://www.aeaweb.org/research/rss-feed
+  error: ConnectTimeout: HTTPSConnectionPool(host='www.aeaweb.org', port=443): Max retries exceeded with url: /research/rss-feed (Caused by Conne
 
 Blocked for GitHub but fetched from the Mac recently:
   A Dark Room  (last 2026-09-17 11:31 UTC)
   Agglomerations  (last 2026-09-17 11:31 UTC)
+  Annual Reviews: Annual Review of Economics: Table of Contents  (last 2026-09-17 11:31 UTC)
+  Annual Reviews: Annual Review of Financial Economics: Table of Contents  (last 2026-09-17 11:31 UTC)
   Bioeconomics  (last 2026-09-17 11:31 UTC)
   Carlos Chavez  (last 2026-09-17 11:31 UTC)
   Causal Inference: the Remix  (last 2026-09-17 11:31 UTC)
@@ -67,6 +73,7 @@ Blocked for GitHub but fetched from the Mac recently:
   Economy Class  (last 2026-09-17 11:31 UTC)
   Empirical Truths  (last 2026-09-17 11:31 UTC)
   Event Study  (last 2026-09-17 11:31 UTC)
+  Francine McKenna  (last 2026-09-16 18:07 UTC)
   Get Down and Shruti  (last 2026-09-17 11:31 UTC)
   Ghosts of Electricity  (last 2026-09-17 11:31 UTC)
   I Blog to Differ  (last 2026-09-17 11:31 UTC)
