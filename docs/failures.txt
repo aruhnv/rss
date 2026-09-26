@@ -1,71 +1,71 @@
-Run: 2026-09-26 04:29 UTC
+Run: 2026-09-26 06:22 UTC
 Feeds: 188  OK: 138  Via Mac: 33  Failed: 17
 
-[126 consecutive] Securities Law Prof Blog
+[127 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[126 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[127 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[126 consecutive] Latest Results for Review of Accounting Studies
+[127 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[126 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[127 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[126 consecutive] Finance Research | Robert H. Smith School of Business
+[127 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[126 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[127 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[126 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[127 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[126 consecutive] Columbia Journal of Tax Law
+[127 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[126 consecutive] Business Law Prof Blog
+[127 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[126 consecutive] Antitrust & Competition Policy Blog
+[127 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[126 consecutive] American Economic Association
+[127 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[126 consecutive] American Economic Association
+[127 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[126 consecutive] Accounting Research Workshop Series | Accounting Department
+[127 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[126 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[127 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[12 consecutive] iorms: Management Science: Table of Contents
+[13 consecutive] iorms: Management Science: Table of Contents
   https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc
   http 403
 
-[11 consecutive] iorms: Information Systems Research: Table of Contents
+[12 consecutive] iorms: Information Systems Research: Table of Contents
   https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre
   http 403
 
-[4 consecutive] The FinReg Blog
+[5 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
   http 410
 
@@ -81,7 +81,6 @@ Blocked for GitHub but fetched from the Mac recently:
   Economy Class  (last 2026-09-26 04:29 UTC)
   Empirical Truths  (last 2026-09-26 04:29 UTC)
   Event Study  (last 2026-09-26 04:29 UTC)
-  Francine McKenna  (last 2026-09-25 22:14 UTC)
   Get Down and Shruti  (last 2026-09-26 04:29 UTC)
   Ghosts of Electricity  (last 2026-09-26 04:29 UTC)
   I Blog to Differ  (last 2026-09-26 04:29 UTC)
@@ -96,6 +95,7 @@ Blocked for GitHub but fetched from the Mac recently:
   Rohit Lamba  (last 2026-09-26 04:29 UTC)
   Sebastian’s Substack  (last 2026-09-26 04:29 UTC)
   The Capitalism and Freedom in the 21st Century Podcast  (last 2026-09-26 04:29 UTC)
+  The University of Chicago Press: National Tax Journal: Table of Contents  (last 2026-09-23 23:36 UTC)
   Unevenly Combined Thoughts  (last 2026-09-26 04:29 UTC)
   Weltinnenpolitik  (last 2026-09-26 04:29 UTC)
   What's New Under the Sun  (last 2026-09-26 04:29 UTC)
