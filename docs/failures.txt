@@ -1,73 +1,77 @@
-Run: 2026-09-26 11:39 UTC
-Feeds: 188  OK: 138  Via Mac: 33  Failed: 17
+Run: 2026-09-26 15:44 UTC
+Feeds: 188  OK: 137  Via Mac: 33  Failed: 18
 
-[128 consecutive] Securities Law Prof Blog
+[129 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[128 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[129 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[128 consecutive] Latest Results for Review of Accounting Studies
+[129 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[128 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[129 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[128 consecutive] Finance Research | Robert H. Smith School of Business
+[129 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[128 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[129 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[128 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[129 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[128 consecutive] Columbia Journal of Tax Law
+[129 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[128 consecutive] Business Law Prof Blog
+[129 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[128 consecutive] Antitrust & Competition Policy Blog
+[129 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[128 consecutive] American Economic Association
+[129 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[128 consecutive] American Economic Association
+[129 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[128 consecutive] Accounting Research Workshop Series | Accounting Department
+[129 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[128 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[129 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[14 consecutive] iorms: Management Science: Table of Contents
+[15 consecutive] iorms: Management Science: Table of Contents
   https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc
   http 403
 
-[13 consecutive] iorms: Information Systems Research: Table of Contents
+[14 consecutive] iorms: Information Systems Research: Table of Contents
   https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre
   http 403
 
-[6 consecutive] The FinReg Blog
+[7 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
   http 410
+
+[1 consecutive] Google News: tax
+  https://news.google.com/rss/search?q=tax&hl=en-US&gl=US&ceid=US:en
+  http 503
 
 Blocked for GitHub but fetched from the Mac recently:
   A Dark Room  (last 2026-09-26 04:29 UTC)
