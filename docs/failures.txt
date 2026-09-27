@@ -1,79 +1,79 @@
-Run: 2026-09-27 00:12 UTC
-Feeds: 188  OK: 139  Via Mac: 30  Failed: 19
+Run: 2026-09-27 05:33 UTC
+Feeds: 188  OK: 138  Via Mac: 31  Failed: 19
 
-[132 consecutive] Securities Law Prof Blog
+[133 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[132 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[133 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[132 consecutive] Latest Results for Review of Accounting Studies
+[133 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[132 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[133 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[132 consecutive] Finance Research | Robert H. Smith School of Business
+[133 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[132 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[133 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[132 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[133 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[132 consecutive] Columbia Journal of Tax Law
+[133 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[132 consecutive] Business Law Prof Blog
+[133 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[132 consecutive] Antitrust & Competition Policy Blog
+[133 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[132 consecutive] American Economic Association
+[133 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[132 consecutive] American Economic Association
+[133 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[132 consecutive] Accounting Research Workshop Series | Accounting Department
+[133 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[132 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[133 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[18 consecutive] iorms: Management Science: Table of Contents
+[19 consecutive] iorms: Management Science: Table of Contents
   https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc
   http 403
 
-[17 consecutive] iorms: Information Systems Research: Table of Contents
+[18 consecutive] iorms: Information Systems Research: Table of Contents
   https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre
   http 403
 
-[13 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
+[14 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67c8&jc=financial&type=etoc&feed=atom
   http 403
 
-[10 consecutive] The FinReg Blog
+[11 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
   http 410
 
-[7 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
+[8 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom
   http 403
 
@@ -87,6 +87,7 @@ Blocked for GitHub but fetched from the Mac recently:
   Economy Class  (last 2026-09-26 04:29 UTC)
   Empirical Truths  (last 2026-09-26 04:29 UTC)
   Event Study  (last 2026-09-26 04:29 UTC)
+  Francine McKenna  (last 2026-09-25 22:14 UTC)
   Get Down and Shruti  (last 2026-09-26 04:29 UTC)
   Ghosts of Electricity  (last 2026-09-26 04:29 UTC)
   I Blog to Differ  (last 2026-09-26 04:29 UTC)
