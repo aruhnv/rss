@@ -1,73 +1,77 @@
-Run: 2026-09-27 22:00 UTC
-Feeds: 188  OK: 139  Via Mac: 32  Failed: 17
+Run: 2026-09-27 22:47 UTC
+Feeds: 188  OK: 138  Via Mac: 32  Failed: 18
 
-[138 consecutive] Securities Law Prof Blog
+[139 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[138 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[139 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[138 consecutive] Latest Results for Review of Accounting Studies
+[139 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[138 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[139 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[138 consecutive] Finance Research | Robert H. Smith School of Business
+[139 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[138 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[139 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[138 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[139 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[138 consecutive] Columbia Journal of Tax Law
+[139 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[138 consecutive] Business Law Prof Blog
+[139 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[138 consecutive] Antitrust & Competition Policy Blog
+[139 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[138 consecutive] American Economic Association
+[139 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[138 consecutive] American Economic Association
+[139 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[138 consecutive] Accounting Research Workshop Series | Accounting Department
+[139 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[138 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[139 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[16 consecutive] The FinReg Blog
+[17 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
   http 410
 
-[1 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
+[2 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67c8&jc=financial&type=etoc&feed=atom
   http 403
 
-[1 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
+[2 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom
   http 403
+
+[1 consecutive] AEA Research Highlights
+  https://www.aeaweb.org/research/rss-feed
+  error: ConnectTimeout: HTTPSConnectionPool(host='www.aeaweb.org', port=443): Max retries exceeded with url: /research/rss-feed (Caused by Conne
 
 Blocked for GitHub but fetched from the Mac recently:
   A Dark Room  (last 2026-09-27 22:00 UTC)
