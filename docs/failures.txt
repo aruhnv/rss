@@ -1,92 +1,92 @@
-Run: 2026-10-02 20:04 UTC
+Run: 2026-10-02 21:16 UTC
 Feeds: 188  OK: 145  Via Mac: 28  Failed: 15
 
-[180 consecutive] Securities Law Prof Blog
+[181 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[180 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[181 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[180 consecutive] Latest Results for Review of Accounting Studies
+[181 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[180 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[181 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[180 consecutive] Finance Research | Robert H. Smith School of Business
+[181 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[180 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[181 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[180 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[181 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[180 consecutive] Columbia Journal of Tax Law
+[181 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[180 consecutive] Business Law Prof Blog
+[181 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[180 consecutive] Antitrust & Competition Policy Blog
+[181 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[180 consecutive] American Economic Association
+[181 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[180 consecutive] American Economic Association
+[181 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[180 consecutive] Accounting Research Workshop Series | Accounting Department
+[181 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[180 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[181 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[58 consecutive] The FinReg Blog
+[59 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
   http 410
 
 Blocked for GitHub but fetched from the Mac recently:
-  A Dark Room  (last 2026-10-02 16:12 UTC)
-  Agglomerations  (last 2026-10-02 16:12 UTC)
-  Annual Reviews: Annual Review of Economics: Table of Contents  (last 2026-10-02 16:12 UTC)
-  Annual Reviews: Annual Review of Financial Economics: Table of Contents  (last 2026-10-02 16:12 UTC)
-  Bioeconomics  (last 2026-10-02 16:12 UTC)
-  Carlos Chavez  (last 2026-10-02 16:12 UTC)
-  Causal Inference: the Remix  (last 2026-10-02 16:12 UTC)
-  Data, On Average  (last 2026-10-02 16:12 UTC)
-  Economy Class  (last 2026-10-02 16:12 UTC)
-  Empirical Truths  (last 2026-10-02 16:12 UTC)
-  Event Study  (last 2026-10-02 16:12 UTC)
-  Get Down and Shruti  (last 2026-10-02 16:12 UTC)
-  Ghosts of Electricity  (last 2026-10-02 16:12 UTC)
-  I Blog to Differ  (last 2026-10-02 16:12 UTC)
-  Judgment Calls  (last 2026-10-02 16:12 UTC)
-  Knowledge Problem  (last 2026-10-02 16:12 UTC)
-  Laura Nicolae  (last 2026-10-02 16:12 UTC)
-  Liberty Lens - An Economics Substack  (last 2026-10-02 16:12 UTC)
-  Macroeconomic Policy Nexus  (last 2026-10-02 16:12 UTC)
-  On the Other Hand...  (last 2026-10-02 16:12 UTC)
-  Plugging the Gap  (last 2026-10-02 16:12 UTC)
-  Popular by Design  (last 2026-10-02 16:12 UTC)
-  Rohit Lamba  (last 2026-10-02 16:12 UTC)
-  Sebastian’s Substack  (last 2026-10-02 16:12 UTC)
-  The Capitalism and Freedom in the 21st Century Podcast  (last 2026-10-02 16:12 UTC)
-  Unevenly Combined Thoughts  (last 2026-10-02 16:12 UTC)
-  Weltinnenpolitik  (last 2026-10-02 16:12 UTC)
-  What's New Under the Sun  (last 2026-10-02 16:12 UTC)
+  A Dark Room  (last 2026-10-02 21:16 UTC)
+  Agglomerations  (last 2026-10-02 21:16 UTC)
+  Annual Reviews: Annual Review of Economics: Table of Contents  (last 2026-10-02 21:16 UTC)
+  Annual Reviews: Annual Review of Financial Economics: Table of Contents  (last 2026-10-02 21:16 UTC)
+  Bioeconomics  (last 2026-10-02 21:16 UTC)
+  Carlos Chavez  (last 2026-10-02 21:16 UTC)
+  Causal Inference: the Remix  (last 2026-10-02 21:16 UTC)
+  Data, On Average  (last 2026-10-02 21:16 UTC)
+  Economy Class  (last 2026-10-02 21:16 UTC)
+  Empirical Truths  (last 2026-10-02 21:16 UTC)
+  Event Study  (last 2026-10-02 21:16 UTC)
+  Get Down and Shruti  (last 2026-10-02 21:16 UTC)
+  Ghosts of Electricity  (last 2026-10-02 21:16 UTC)
+  I Blog to Differ  (last 2026-10-02 21:16 UTC)
+  Judgment Calls  (last 2026-10-02 21:16 UTC)
+  Knowledge Problem  (last 2026-10-02 21:16 UTC)
+  Laura Nicolae  (last 2026-10-02 21:16 UTC)
+  Liberty Lens - An Economics Substack  (last 2026-10-02 21:16 UTC)
+  Macroeconomic Policy Nexus  (last 2026-10-02 21:16 UTC)
+  On the Other Hand...  (last 2026-10-02 21:16 UTC)
+  Plugging the Gap  (last 2026-10-02 21:16 UTC)
+  Popular by Design  (last 2026-10-02 21:16 UTC)
+  Rohit Lamba  (last 2026-10-02 21:16 UTC)
+  Sebastian’s Substack  (last 2026-10-02 21:16 UTC)
+  The Capitalism and Freedom in the 21st Century Podcast  (last 2026-10-02 21:16 UTC)
+  Unevenly Combined Thoughts  (last 2026-10-02 21:16 UTC)
+  Weltinnenpolitik  (last 2026-10-02 21:16 UTC)
+  What's New Under the Sun  (last 2026-10-02 21:16 UTC)
