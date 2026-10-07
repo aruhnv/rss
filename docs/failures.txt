@@ -1,95 +1,175 @@
-Run: 2026-10-07 17:54 UTC
-Feeds: 188  OK: 145  Via Mac: 27  Failed: 16
+Run: 2026-10-07 22:39 UTC
+Feeds: 188  OK: 145  Via Mac: 0  Failed: 43
 
-[211 consecutive] Securities Law Prof Blog
+[212 consecutive] What's New Under the Sun
+  https://mattsclancy.substack.com/feed
+  http 403
+
+[212 consecutive] Weltinnenpolitik
+  https://weltinnenpolitik.substack.com/feed
+  http 403
+
+[212 consecutive] Unevenly Combined Thoughts
+  https://unevenandcombinedthoughts.substack.com/feed
+  http 403
+
+[212 consecutive] The Capitalism and Freedom in the 21st Century Podcast
+  https://capitalismandfreedom.substack.com/feed
+  http 403
+
+[212 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[211 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[212 consecutive] Sebastian’s Substack
+  https://sebastiangaliani.substack.com/feed
+  http 403
+
+[212 consecutive] Rohit Lamba
+  https://rohitlamba.substack.com/feed
+  http 403
+
+[212 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[211 consecutive] Latest Results for Review of Accounting Studies
+[212 consecutive] Popular by Design
+  https://alexanderkustov.substack.com/feed
+  http 403
+
+[212 consecutive] Plugging the Gap
+  https://joshuagans.substack.com/feed
+  http 403
+
+[212 consecutive] On the Other Hand...
+  https://dwmackenzie.substack.com/feed/
+  http 403
+
+[212 consecutive] Macroeconomic Policy Nexus
+  https://macroeconomicpolicynexus.substack.com/feed
+  http 403
+
+[212 consecutive] Liberty Lens - An Economics Substack
+  https://libertylensecon.substack.com/feed
+  http 403
+
+[212 consecutive] Laura Nicolae
+  https://lauranicolae.substack.com/feed
+  http 403
+
+[212 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[211 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[212 consecutive] Knowledge Problem
+  https://knowledgeproblem.substack.com/feed
+  http 403
+
+[212 consecutive] Judgment Calls
+  https://judgmentcalls.substack.com/feed
+  http 403
+
+[212 consecutive] I Blog to Differ
+  https://davidrhenderson.substack.com/feed
+  http 403
+
+[212 consecutive] Ghosts of Electricity
+  https://aleximas.substack.com/feed
+  http 403
+
+[212 consecutive] Get Down and Shruti
+  https://srajagopalan.substack.com/feed
+  http 403
+
+[212 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[211 consecutive] Finance Research | Robert H. Smith School of Business
+[212 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[211 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[212 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[211 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[212 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[211 consecutive] Columbia Journal of Tax Law
+[212 consecutive] Event Study
+  https://yiqingxu.substack.com/feed
+  http 403
+
+[212 consecutive] Empirical Truths
+  https://empiricaltruths.substack.com/feed
+  http 403
+
+[212 consecutive] Economy Class
+  https://arjunramani.substack.com/feed
+  http 403
+
+[212 consecutive] Data, On Average
+  https://nickchk.substack.com/feed
+  http 403
+
+[212 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[211 consecutive] Business Law Prof Blog
+[212 consecutive] Causal Inference: the Remix
+  https://causalinf.substack.com/feed
+  http 403
+
+[212 consecutive] Carlos Chavez
+  https://carloschavezp29.substack.com/feed
+  http 403
+
+[212 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[211 consecutive] Antitrust & Competition Policy Blog
+[212 consecutive] Bioeconomics
+  https://andresdeloera.substack.com/feed
+  http 403
+
+[212 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[211 consecutive] American Economic Association
+[212 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[211 consecutive] American Economic Association
+[212 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[211 consecutive] Accounting Research Workshop Series | Accounting Department
+[212 consecutive] Agglomerations
+  https://agglomerations.substack.com/feed
+  http 403
+
+[212 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[211 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[212 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[89 consecutive] The FinReg Blog
+[212 consecutive] A Dark Room
+  https://adarkroom.substack.com/feed
+  http 403
+
+[90 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
   http 410
 
-[10 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
+[11 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom
   http 403
 
-Blocked for GitHub but fetched from the Mac recently:
-  A Dark Room  (last 2026-10-04 18:04 UTC)
-  Agglomerations  (last 2026-10-04 18:04 UTC)
-  Annual Reviews: Annual Review of Financial Economics: Table of Contents  (last 2026-10-04 18:04 UTC)
-  Bioeconomics  (last 2026-10-04 18:04 UTC)
-  Carlos Chavez  (last 2026-10-04 18:04 UTC)
-  Causal Inference: the Remix  (last 2026-10-04 18:04 UTC)
-  Data, On Average  (last 2026-10-04 18:04 UTC)
-  Economy Class  (last 2026-10-04 18:04 UTC)
-  Empirical Truths  (last 2026-10-04 18:04 UTC)
-  Event Study  (last 2026-10-04 18:04 UTC)
-  Get Down and Shruti  (last 2026-10-04 18:04 UTC)
-  Ghosts of Electricity  (last 2026-10-04 18:04 UTC)
-  I Blog to Differ  (last 2026-10-04 18:04 UTC)
-  Judgment Calls  (last 2026-10-04 18:04 UTC)
-  Knowledge Problem  (last 2026-10-04 18:04 UTC)
-  Laura Nicolae  (last 2026-10-04 18:04 UTC)
-  Liberty Lens - An Economics Substack  (last 2026-10-04 18:04 UTC)
-  Macroeconomic Policy Nexus  (last 2026-10-04 18:04 UTC)
-  On the Other Hand...  (last 2026-10-04 18:04 UTC)
-  Plugging the Gap  (last 2026-10-04 18:04 UTC)
-  Popular by Design  (last 2026-10-04 18:04 UTC)
-  Rohit Lamba  (last 2026-10-04 18:04 UTC)
-  Sebastian’s Substack  (last 2026-10-04 18:04 UTC)
-  The Capitalism and Freedom in the 21st Century Podcast  (last 2026-10-04 18:04 UTC)
-  Unevenly Combined Thoughts  (last 2026-10-04 18:04 UTC)
-  Weltinnenpolitik  (last 2026-10-04 18:04 UTC)
-  What's New Under the Sun  (last 2026-10-04 18:04 UTC)
+[2 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
+  https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67c8&jc=financial&type=etoc&feed=atom
+  http 403
+
