@@ -1,195 +1,179 @@
-Run: 2026-10-17 19:00 UTC
-Feeds: 188  OK: 140  Via Mac: 0  Failed: 48
+Run: 2026-10-17 21:34 UTC
+Feeds: 188  OK: 144  Via Mac: 0  Failed: 44
 
-[261 consecutive] What's New Under the Sun
+[262 consecutive] What's New Under the Sun
   https://mattsclancy.substack.com/feed
   http 403
 
-[261 consecutive] Weltinnenpolitik
+[262 consecutive] Weltinnenpolitik
   https://weltinnenpolitik.substack.com/feed
   http 403
 
-[261 consecutive] Unevenly Combined Thoughts
+[262 consecutive] Unevenly Combined Thoughts
   https://unevenandcombinedthoughts.substack.com/feed
   http 403
 
-[261 consecutive] The Capitalism and Freedom in the 21st Century Podcast
+[262 consecutive] The Capitalism and Freedom in the 21st Century Podcast
   https://capitalismandfreedom.substack.com/feed
   http 403
 
-[261 consecutive] Securities Law Prof Blog
+[262 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[261 consecutive] Sebastian’s Substack
+[262 consecutive] Sebastian’s Substack
   https://sebastiangaliani.substack.com/feed
   http 403
 
-[261 consecutive] Rohit Lamba
+[262 consecutive] Rohit Lamba
   https://rohitlamba.substack.com/feed
   http 403
 
-[261 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[262 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[261 consecutive] Popular by Design
+[262 consecutive] Popular by Design
   https://alexanderkustov.substack.com/feed
   http 403
 
-[261 consecutive] Plugging the Gap
+[262 consecutive] Plugging the Gap
   https://joshuagans.substack.com/feed
   http 403
 
-[261 consecutive] On the Other Hand...
+[262 consecutive] On the Other Hand...
   https://dwmackenzie.substack.com/feed/
   http 403
 
-[261 consecutive] Macroeconomic Policy Nexus
+[262 consecutive] Macroeconomic Policy Nexus
   https://macroeconomicpolicynexus.substack.com/feed
   http 403
 
-[261 consecutive] Liberty Lens - An Economics Substack
+[262 consecutive] Liberty Lens - An Economics Substack
   https://libertylensecon.substack.com/feed
   http 403
 
-[261 consecutive] Laura Nicolae
+[262 consecutive] Laura Nicolae
   https://lauranicolae.substack.com/feed
   http 403
 
-[261 consecutive] Latest Results for Review of Accounting Studies
+[262 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[261 consecutive] Knowledge Problem
+[262 consecutive] Knowledge Problem
   https://knowledgeproblem.substack.com/feed
   http 403
 
-[261 consecutive] Judgment Calls
+[262 consecutive] Judgment Calls
   https://judgmentcalls.substack.com/feed
   http 403
 
-[261 consecutive] I Blog to Differ
+[262 consecutive] I Blog to Differ
   https://davidrhenderson.substack.com/feed
   http 403
 
-[261 consecutive] Ghosts of Electricity
+[262 consecutive] Ghosts of Electricity
   https://aleximas.substack.com/feed
   http 403
 
-[261 consecutive] Get Down and Shruti
+[262 consecutive] Get Down and Shruti
   https://srajagopalan.substack.com/feed
   http 403
 
-[261 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[262 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[261 consecutive] Finance Research | Robert H. Smith School of Business
+[262 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[261 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[262 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[261 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[262 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[261 consecutive] Event Study
+[262 consecutive] Event Study
   https://yiqingxu.substack.com/feed
   http 403
 
-[261 consecutive] Empirical Truths
+[262 consecutive] Empirical Truths
   https://empiricaltruths.substack.com/feed
   http 403
 
-[261 consecutive] Economy Class
+[262 consecutive] Economy Class
   https://arjunramani.substack.com/feed
   http 403
 
-[261 consecutive] Data, On Average
+[262 consecutive] Data, On Average
   https://nickchk.substack.com/feed
   http 403
 
-[261 consecutive] Columbia Journal of Tax Law
+[262 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[261 consecutive] Causal Inference: the Remix
+[262 consecutive] Causal Inference: the Remix
   https://causalinf.substack.com/feed
   http 403
 
-[261 consecutive] Carlos Chavez
+[262 consecutive] Carlos Chavez
   https://carloschavezp29.substack.com/feed
   http 403
 
-[261 consecutive] Business Law Prof Blog
+[262 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[261 consecutive] Bioeconomics
+[262 consecutive] Bioeconomics
   https://andresdeloera.substack.com/feed
   http 403
 
-[261 consecutive] Antitrust & Competition Policy Blog
+[262 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[261 consecutive] American Economic Association
+[262 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[261 consecutive] American Economic Association
+[262 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[261 consecutive] Agglomerations
+[262 consecutive] Agglomerations
   https://agglomerations.substack.com/feed
   http 403
 
-[261 consecutive] Accounting Research Workshop Series | Accounting Department
+[262 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[261 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[262 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[261 consecutive] A Dark Room
+[262 consecutive] A Dark Room
   https://adarkroom.substack.com/feed
   http 403
 
-[139 consecutive] The FinReg Blog
+[140 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
   http 410
 
-[13 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
+[14 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67c8&jc=financial&type=etoc&feed=atom
   http 403
 
-[8 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
+[9 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom
   http 403
 
-[1 consecutive] The Review of Financial Studies Current Issue
-  http://rfs.oxfordjournals.org/rss/current.xml
-  http 404
-
-[1 consecutive] The Review of Financial Studies Advance Access
-  http://rfs.oxfordjournals.org/rss/ahead.xml
-  http 404
-
-[1 consecutive] The Review of Economic Studies Advance Access
+[2 consecutive] The Review of Economic Studies Advance Access
   http://restud.oxfordjournals.org/rss/ahead.xml
   http 404
-
-[1 consecutive] Review of Finance Advance Access
-  http://rof.oxfordjournals.org/rss/ahead.xml
-  http 404
-
-[1 consecutive] Francine McKenna
-  http://retheauditors.com/feed/
-  http 202
 
