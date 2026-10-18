@@ -1,255 +1,191 @@
-Run: 2026-10-18 07:49 UTC
-Feeds: 188  OK: 125  Via Mac: 0  Failed: 63
+Run: 2026-10-18 12:25 UTC
+Feeds: 188  OK: 141  Via Mac: 0  Failed: 47
 
-[265 consecutive] What's New Under the Sun
+[266 consecutive] What's New Under the Sun
   https://mattsclancy.substack.com/feed
   http 403
 
-[265 consecutive] Weltinnenpolitik
+[266 consecutive] Weltinnenpolitik
   https://weltinnenpolitik.substack.com/feed
   http 403
 
-[265 consecutive] Unevenly Combined Thoughts
+[266 consecutive] Unevenly Combined Thoughts
   https://unevenandcombinedthoughts.substack.com/feed
   http 403
 
-[265 consecutive] The Capitalism and Freedom in the 21st Century Podcast
+[266 consecutive] The Capitalism and Freedom in the 21st Century Podcast
   https://capitalismandfreedom.substack.com/feed
   http 403
 
-[265 consecutive] Securities Law Prof Blog
+[266 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[265 consecutive] Sebastian’s Substack
+[266 consecutive] Sebastian’s Substack
   https://sebastiangaliani.substack.com/feed
   http 403
 
-[265 consecutive] Rohit Lamba
+[266 consecutive] Rohit Lamba
   https://rohitlamba.substack.com/feed
   http 403
 
-[265 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[266 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[265 consecutive] Popular by Design
+[266 consecutive] Popular by Design
   https://alexanderkustov.substack.com/feed
   http 403
 
-[265 consecutive] Plugging the Gap
+[266 consecutive] Plugging the Gap
   https://joshuagans.substack.com/feed
   http 403
 
-[265 consecutive] On the Other Hand...
+[266 consecutive] On the Other Hand...
   https://dwmackenzie.substack.com/feed/
   http 403
 
-[265 consecutive] Macroeconomic Policy Nexus
+[266 consecutive] Macroeconomic Policy Nexus
   https://macroeconomicpolicynexus.substack.com/feed
   http 403
 
-[265 consecutive] Liberty Lens - An Economics Substack
+[266 consecutive] Liberty Lens - An Economics Substack
   https://libertylensecon.substack.com/feed
   http 403
 
-[265 consecutive] Laura Nicolae
+[266 consecutive] Laura Nicolae
   https://lauranicolae.substack.com/feed
   http 403
 
-[265 consecutive] Latest Results for Review of Accounting Studies
+[266 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[265 consecutive] Knowledge Problem
+[266 consecutive] Knowledge Problem
   https://knowledgeproblem.substack.com/feed
   http 403
 
-[265 consecutive] Judgment Calls
+[266 consecutive] Judgment Calls
   https://judgmentcalls.substack.com/feed
   http 403
 
-[265 consecutive] I Blog to Differ
+[266 consecutive] I Blog to Differ
   https://davidrhenderson.substack.com/feed
   http 403
 
-[265 consecutive] Ghosts of Electricity
+[266 consecutive] Ghosts of Electricity
   https://aleximas.substack.com/feed
   http 403
 
-[265 consecutive] Get Down and Shruti
+[266 consecutive] Get Down and Shruti
   https://srajagopalan.substack.com/feed
   http 403
 
-[265 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[266 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[265 consecutive] Finance Research | Robert H. Smith School of Business
+[266 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[265 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[266 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[265 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[266 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[265 consecutive] Event Study
+[266 consecutive] Event Study
   https://yiqingxu.substack.com/feed
   http 403
 
-[265 consecutive] Empirical Truths
+[266 consecutive] Empirical Truths
   https://empiricaltruths.substack.com/feed
   http 403
 
-[265 consecutive] Economy Class
+[266 consecutive] Economy Class
   https://arjunramani.substack.com/feed
   http 403
 
-[265 consecutive] Data, On Average
+[266 consecutive] Data, On Average
   https://nickchk.substack.com/feed
   http 403
 
-[265 consecutive] Columbia Journal of Tax Law
+[266 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[265 consecutive] Causal Inference: the Remix
+[266 consecutive] Causal Inference: the Remix
   https://causalinf.substack.com/feed
   http 403
 
-[265 consecutive] Carlos Chavez
+[266 consecutive] Carlos Chavez
   https://carloschavezp29.substack.com/feed
   http 403
 
-[265 consecutive] Business Law Prof Blog
+[266 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[265 consecutive] Bioeconomics
+[266 consecutive] Bioeconomics
   https://andresdeloera.substack.com/feed
   http 403
 
-[265 consecutive] Antitrust & Competition Policy Blog
+[266 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[265 consecutive] American Economic Association
+[266 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[265 consecutive] American Economic Association
+[266 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[265 consecutive] Agglomerations
+[266 consecutive] Agglomerations
   https://agglomerations.substack.com/feed
   http 403
 
-[265 consecutive] Accounting Research Workshop Series | Accounting Department
+[266 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[265 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[266 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[265 consecutive] A Dark Room
+[266 consecutive] A Dark Room
   https://adarkroom.substack.com/feed
   http 403
 
-[143 consecutive] The FinReg Blog
+[144 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
   http 410
 
-[1 consecutive] Title Alert- eJournal of Tax Research v.23 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_ejotaxrs.xml
+[1 consecutive] The Review of Financial Studies Current Issue
+  http://rfs.oxfordjournals.org/rss/current.xml
   http 404
 
-[1 consecutive] Title Alert- Virginia Tax Review v.45 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_vrgtr.xml
+[1 consecutive] The Review of Financial Studies Advance Access
+  http://rfs.oxfordjournals.org/rss/ahead.xml
   http 404
 
-[1 consecutive] Title Alert- Taxes: The Tax Magazine v.103 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_taxtm.xml
+[1 consecutive] The Review of Economic Studies Advance Access
+  http://restud.oxfordjournals.org/rss/ahead.xml
   http 404
 
-[1 consecutive] Title Alert- Tax Policy and the Economy v.39 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_txpeco.xml
+[1 consecutive] Review of Finance Advance Access
+  http://rof.oxfordjournals.org/rss/ahead.xml
   http 404
 
-[1 consecutive] Title Alert- Tax Magazine v.2025 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_txmgz.xml
-  http 404
+[1 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
+  https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67c8&jc=financial&type=etoc&feed=atom
+  http 403
 
-[1 consecutive] Title Alert- Tax Lawyer v.78 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_txlr.xml
-  http 404
-
-[1 consecutive] Title Alert- Tax Law Review v.77 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_taxlr.xml
-  http 404
-
-[1 consecutive] Title Alert- Tax Executive v.77 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_taxexe.xml
-  http 404
-
-[1 consecutive] Title Alert- Tax Adviser v.57 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_txadv.xml
-  http 404
-
-[1 consecutive] Title Alert- Pittsburgh Tax Review v.22 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_pittax.xml
-  http 404
-
-[1 consecutive] Title Alert- New York University Journal of Law and Business v.21 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_nyujolbu.xml
-  http 404
-
-[1 consecutive] Title Alert- Journal of Taxation of Financial Products v.22 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_jrlfin.xml
-  http 404
-
-[1 consecutive] Title Alert- Journal of Taxation (West) v.140 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_jnltxw.xml
-  http 404
-
-[1 consecutive] Title Alert- Journal of Tax Practice & Procedure v.27 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_jtaxpp.xml
-  http 404
-
-[1 consecutive] Title Alert- Journal of State Taxation v.43 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_jrnsttax.xml
-  http 404
-
-[1 consecutive] Title Alert- Houston Business and Tax Law Journal v.25 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_houbtalj.xml
-  http 404
-
-[1 consecutive] Title Alert- Fordham Journal of Corporate and Financial Law v.30 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_fjcf.xml
-  http 404
-
-[1 consecutive] Title Alert- Florida Tax Review v.28 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_ftaxr.xml
-  http 404
-
-[1 consecutive] Title Alert- Columbia Journal of Tax Law v.16 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_colujoutl.xml
-  http 404
-
-[1 consecutive] Title Alert- Business, Entrepreneurship & Tax Law Review v.9 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_betr.xml
-  http 404
-
-[1 consecutive] Title Alert- Berkeley Journal of International Law v.43 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_berkjintlw.xml
-  http 404
-
-[1 consecutive] Title Alert- ABA Tax Times v.44 - Updated
-  https://heinonline.org/HeinDocs/kbart/rss_journals_newsqtrly.xml
-  http 404
+[1 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
+  https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom
+  http 403
 
