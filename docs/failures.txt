@@ -1,195 +1,191 @@
-Run: 2026-10-21 20:17 UTC
-Feeds: 188  OK: 140  Via Mac: 0  Failed: 48
+Run: 2026-10-21 23:30 UTC
+Feeds: 188  OK: 141  Via Mac: 0  Failed: 47
 
-[285 consecutive] What's New Under the Sun
+[286 consecutive] What's New Under the Sun
   https://mattsclancy.substack.com/feed
   http 403
 
-[285 consecutive] Weltinnenpolitik
+[286 consecutive] Weltinnenpolitik
   https://weltinnenpolitik.substack.com/feed
   http 403
 
-[285 consecutive] Unevenly Combined Thoughts
+[286 consecutive] Unevenly Combined Thoughts
   https://unevenandcombinedthoughts.substack.com/feed
   http 403
 
-[285 consecutive] The Capitalism and Freedom in the 21st Century Podcast
+[286 consecutive] The Capitalism and Freedom in the 21st Century Podcast
   https://capitalismandfreedom.substack.com/feed
   http 403
 
-[285 consecutive] Securities Law Prof Blog
+[286 consecutive] Securities Law Prof Blog
   http://lawprofessors.typepad.com/securities/atom.xml
   http 403
 
-[285 consecutive] Sebastian’s Substack
+[286 consecutive] Sebastian’s Substack
   https://sebastiangaliani.substack.com/feed
   http 403
 
-[285 consecutive] Rohit Lamba
+[286 consecutive] Rohit Lamba
   https://rohitlamba.substack.com/feed
   http 403
 
-[285 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
+[286 consecutive] Research Seminars - Center for Financial Reporting & Management - Berkeley Haas
   https://politepol.com/fd/E1QzSFkBGr9S.xml
   http 404
 
-[285 consecutive] Popular by Design
+[286 consecutive] Popular by Design
   https://alexanderkustov.substack.com/feed
   http 403
 
-[285 consecutive] Plugging the Gap
+[286 consecutive] Plugging the Gap
   https://joshuagans.substack.com/feed
   http 403
 
-[285 consecutive] On the Other Hand...
+[286 consecutive] On the Other Hand...
   https://dwmackenzie.substack.com/feed/
   http 403
 
-[285 consecutive] Macroeconomic Policy Nexus
+[286 consecutive] Macroeconomic Policy Nexus
   https://macroeconomicpolicynexus.substack.com/feed
   http 403
 
-[285 consecutive] Liberty Lens - An Economics Substack
+[286 consecutive] Liberty Lens - An Economics Substack
   https://libertylensecon.substack.com/feed
   http 403
 
-[285 consecutive] Laura Nicolae
+[286 consecutive] Laura Nicolae
   https://lauranicolae.substack.com/feed
   http 403
 
-[285 consecutive] Latest Results for Review of Accounting Studies
+[286 consecutive] Latest Results for Review of Accounting Studies
   http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11142&channel-name=Review+of+Accounting+Studies
   unparseable: <unknown>:15:4: not well-formed (invalid token)
 
-[285 consecutive] Knowledge Problem
+[286 consecutive] Knowledge Problem
   https://knowledgeproblem.substack.com/feed
   http 403
 
-[285 consecutive] Judgment Calls
+[286 consecutive] Judgment Calls
   https://judgmentcalls.substack.com/feed
   http 403
 
-[285 consecutive] I Blog to Differ
+[286 consecutive] I Blog to Differ
   https://davidrhenderson.substack.com/feed
   http 403
 
-[285 consecutive] Ghosts of Electricity
+[286 consecutive] Ghosts of Electricity
   https://aleximas.substack.com/feed
   http 403
 
-[285 consecutive] Get Down and Shruti
+[286 consecutive] Get Down and Shruti
   https://srajagopalan.substack.com/feed
   http 403
 
-[285 consecutive] Finance Workshop | The University of Chicago Booth School of Business
+[286 consecutive] Finance Workshop | The University of Chicago Booth School of Business
   https://politepol.com/fd/gBe3kdJf0wgp.xml
   http 404
 
-[285 consecutive] Finance Research | Robert H. Smith School of Business
+[286 consecutive] Finance Research | Robert H. Smith School of Business
   https://politepol.com/fd/dl1LPP6t8HF2.xml
   http 404
 
-[285 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
+[286 consecutive] Finance Lunch Seminar | The University of Chicago Booth School of Business
   https://politepol.com/fd/hHXt5XkxgisM.xml
   http 404
 
-[285 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
+[286 consecutive] Finance Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/bBGUhVO7sR5B.xml
   http 404
 
-[285 consecutive] Event Study
+[286 consecutive] Event Study
   https://yiqingxu.substack.com/feed
   http 403
 
-[285 consecutive] Empirical Truths
+[286 consecutive] Empirical Truths
   https://empiricaltruths.substack.com/feed
   http 403
 
-[285 consecutive] Economy Class
+[286 consecutive] Economy Class
   https://arjunramani.substack.com/feed
   http 403
 
-[285 consecutive] Data, On Average
+[286 consecutive] Data, On Average
   https://nickchk.substack.com/feed
   http 403
 
-[285 consecutive] Columbia Journal of Tax Law
+[286 consecutive] Columbia Journal of Tax Law
   https://journals.library.columbia.edu/index.php/taxlaw/gateway/plugin/WebFeedGatewayPlugin/rss2
   unparseable: <unknown>:2:0: syntax error
 
-[285 consecutive] Causal Inference: the Remix
+[286 consecutive] Causal Inference: the Remix
   https://causalinf.substack.com/feed
   http 403
 
-[285 consecutive] Carlos Chavez
+[286 consecutive] Carlos Chavez
   https://carloschavezp29.substack.com/feed
   http 403
 
-[285 consecutive] Business Law Prof Blog
+[286 consecutive] Business Law Prof Blog
   http://lawprofessors.typepad.com/business_law/atom.xml
   http 403
 
-[285 consecutive] Bioeconomics
+[286 consecutive] Bioeconomics
   https://andresdeloera.substack.com/feed
   http 403
 
-[285 consecutive] Antitrust & Competition Policy Blog
+[286 consecutive] Antitrust & Competition Policy Blog
   http://lawprofessors.typepad.com/antitrustprof_blog/atom.xml
   http 403
 
-[285 consecutive] American Economic Association
+[286 consecutive] American Economic Association
   https://politepol.com/fd/hv5Y2KNrM4KL.xml
   http 404
 
-[285 consecutive] American Economic Association
+[286 consecutive] American Economic Association
   https://politepol.com/fd/fNCTAWmh0tWW.xml
   http 404
 
-[285 consecutive] Agglomerations
+[286 consecutive] Agglomerations
   https://agglomerations.substack.com/feed
   http 403
 
-[285 consecutive] Accounting Research Workshop Series | Accounting Department
+[286 consecutive] Accounting Research Workshop Series | Accounting Department
   https://politepol.com/fd/rMMlls95Bhe3.xml
   http 404
 
-[285 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
+[286 consecutive] Accounting Faculty Seminars | Stanford Graduate School of Business
   https://politepol.com/fd/PTsYeMiSzIB9.xml
   http 404
 
-[285 consecutive] A Dark Room
+[286 consecutive] A Dark Room
   https://adarkroom.substack.com/feed
   http 403
 
-[163 consecutive] The FinReg Blog
+[164 consecutive] The FinReg Blog
   https://sites.law.duke.edu/thefinregblog/feed/
-  error: ConnectTimeout: HTTPSConnectionPool(host='sites.law.duke.edu', port=443): Max retries exceeded with url: /thefinregblog/feed/ (Caused by
+  http 410
 
-[20 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
+[21 consecutive] Annual Reviews: Annual Review of Financial Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67c8&jc=financial&type=etoc&feed=atom
   http 403
 
-[20 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
+[21 consecutive] Annual Reviews: Annual Review of Economics: Table of Contents
   https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=67b7&jc=economics&type=etoc&feed=atom
   http 403
 
-[1 consecutive] The Review of Financial Studies Current Issue
+[2 consecutive] The Review of Financial Studies Current Issue
   http://rfs.oxfordjournals.org/rss/current.xml
   http 404
 
-[1 consecutive] The Review of Financial Studies Advance Access
+[2 consecutive] The Review of Financial Studies Advance Access
   http://rfs.oxfordjournals.org/rss/ahead.xml
   http 404
 
-[1 consecutive] The Review of Economic Studies Advance Access
+[2 consecutive] The Review of Economic Studies Advance Access
   http://restud.oxfordjournals.org/rss/ahead.xml
   http 404
 
-[1 consecutive] Review of Finance Advance Access
+[2 consecutive] Review of Finance Advance Access
   http://rof.oxfordjournals.org/rss/ahead.xml
   http 404
-
-[1 consecutive] AEA Research Highlights
-  https://www.aeaweb.org/research/rss-feed
-  error: ReadTimeout: HTTPSConnectionPool(host='www.aeaweb.org', port=443): Read timed out. (read timeout=20)
 
